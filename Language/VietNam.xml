@@ -39,7 +39,7 @@
   <string id ="GW_STRING_USER_UNLOCK"> Mở khóa </string>
   <string id ="GW_STRING_LOGIN_NAME"> Người dùng </string>
   <string id ="GW_STRING_LOGIN_PSW"> Mật khẩu </string>
-  <string id ="GW_STRING_LOGIN_OK"> Vào xem </string>
+  <string id ="GW_STRING_LOGIN_OK"> Đồng ý </string>
   <string id ="GW_STRING_LOGIN_CANCLE"> Hủy bỏ </string>
   <string id ="GW_STRING_LOGIN_QUIT"> Thoát </string>
   <string id ="GW_STRING_LOGIN_LANUAGE"> Ngôn ngữ </string>
