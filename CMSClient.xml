@@ -5,33 +5,31 @@
     <RtspHeartBeatSocketWaittime>1500</RtspHeartBeatSocketWaittime>
     <MaxShowWnd>49</MaxShowWnd>
     <SaveFilePath>D:\CMS Files\</SaveFilePath>
-    <BackupPath>C:\CMS Files\</BackupPath>
-    <HasModifiyPwd>1</HasModifiyPwd>
+    <BackupPath>D:\CMS Files\Video</BackupPath>
+    <HasModifiyPwd>0</HasModifiyPwd>
     <ReserveSize>1024</ReserveSize>
     <RecFileSize>60</RecFileSize>
     <Quality>1</Quality>
-    <RenderMode>1</RenderMode>
-    <VedioRoute>0</VedioRoute>
-    <GetUpdateInfo>0</GetUpdateInfo>
-    <Password>qwe123</Password>
-    <RtspPassword>qwe123</RtspPassword>
+    <RenderMode>0</RenderMode>
+    <GetUpdateInfo>1</GetUpdateInfo>
+    <Password>123</Password>
     <SupportRtsp>1</SupportRtsp>
-    <AutoConnect>0</AutoConnect>
-    <AutoRecord>0</AutoRecord>
-    <CycleRecord>0</CycleRecord>
+    <AutoConnect>1</AutoConnect>
+    <AutoRecord>1</AutoRecord>
+    <CycleRecord>1</CycleRecord>
     <WSTYPE>0</WSTYPE>
     <AlarmEnable>1</AlarmEnable>
-    <AlarmVideo>0</AlarmVideo>
+    <AlarmVideo>15</AlarmVideo>
     <AlarmBuzzer>2</AlarmBuzzer>
     <CusID>CvOv8mxnC+8=</CusID>
     <CusCRC>-1198372910</CusCRC>
     <WsID>KqF1GGbg87U=</WsID>
     <WsCRC>1454294126</WsCRC>
-    <Feature>aad31f663d63f455e90d16b1cc834306</Feature>
+    <Feature>1610ebc58153e81560853d5927eca372</Feature>
     <SptNReg>1</SptNReg>
     <Binded>1</Binded>
     <SharedDevUpgFlag>0</SharedDevUpgFlag>
-    <VersionInfo>1.00.00.46</VersionInfo>
+    <VersionInfo>1.00.00.45</VersionInfo>
     <UserName>admin</UserName>
     <WndColDefault>1</WndColDefault>
     <EnLocalNullPwd>1</EnLocalNullPwd>
