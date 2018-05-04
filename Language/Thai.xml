@@ -30,6 +30,7 @@
   <string id ="GW_STRING_SERVERINFO_GROUP">ข้อมูลอุปกรณ์</string>
   <string id ="GW_STRING_SERVERINFO_DEVNAME">ชื่ออุปกรณ์</string>
   <string id ="GW_STRING_SERVERINFO_PSW">รหัสผ่านอุปกรณ์</string>
+
   <string id ="GW_STRING_SERVERINFO_AREA">ชื่อกลุ่ม</string>
   <string id ="GW_STRING_SERVERINFO_P2PID">ชื่อ ID ของกล้อง</string>
   <string id ="GW_STRING_SERVER_MONITOR01">เริ่มต้นการใช้งานกล้อง</string>
@@ -226,7 +227,8 @@
   <string id ="GW_STRING_CONNECTING00">การเชื่อมต่อ ...</string>
   <string id ="GW_STRING_WND_CONNECTING">มีอุปกรณ์ เชื่อมต่อ ในหน้าจอ โปรดสลับหน้าจอ ...</string>
   <string id ="GW_STRING_FOUNDDEVICE_TITLE">อุปกรณ์ใหม่ที่พบนับ:</string>
-  <string id ="GW_STRING_FOUNDDEVICE_PWD">รหัสผ่าน</string>
+  <string id ="GW_STRING_FOUNDDEVICE_PWD">p2p รหัสผ่าน</string>
+  
   <string id ="GW_STRING_FOUNDDEVICE_OK">เพิ่มทั้งหมด</string>
   <string id ="GW_STRING_FOUNDDEVICE_CANCEL">ไม่สนใจ</string>
   <string id ="GW_STRING_AUTO_CONNECT">เชื่อมต่อทุกอุปกรณ์โดยอัตโนมัต</string>
@@ -432,6 +434,7 @@
   <string id ="GW_STRING_CLEAR_PWD">Clear password</string>
   <string id ="GW_STRING_RENDER_MODE">Render Mode</string>
   <string id ="GW_STRING_PWD_SETTING">Password setting</string>
+ 
 
   <string id ="GW_STRING_LOGOUT">Logout</string>
   <string id ="GW_STRING_KEEP_PASSWORD">Keep Password</string>
@@ -467,4 +470,8 @@
   <string id ="GW_STRING_ADD_SHARED_DEV_ERR_01">Invalid link,please ask owner to share it again</string>
   <string id ="GW_STRING_ADD_SHARED_DEV_INVALID_DEV">One or more cameras are not available，please ask owner to share it again</string>
   <string id ="GW_STRING_RTSP_PWD_TIP">Please connect this device by phone and set RTSP password under app "security settings"</string>
+  <string id ="GW_STRING_SERVERINFO_RTSPPSW">Device RTSP password</string> 
+<string id ="GW_STRING_RTSP_PWD">RTSP รหัสผ่าน</string>
+ <string id ="GW_STRING_ROUTE_TYPE">Monitor Route</string>
+ <string id ="GW_STRING_RTSP_PSW1">RTSP รหัสผ่าน</string>
 </StringTable>
