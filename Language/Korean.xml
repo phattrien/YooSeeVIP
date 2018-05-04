@@ -30,6 +30,7 @@
   <string id ="GW_STRING_SERVERINFO_GROUP">장치 정보</string>
   <string id ="GW_STRING_SERVERINFO_DEVNAME">장치 명칭</string>
   <string id ="GW_STRING_SERVERINFO_PSW">장치 비밀번호</string>
+
   <string id ="GW_STRING_SERVERINFO_AREA">그룹 이름</string>
   <string id ="GW_STRING_SERVERINFO_P2PID">Device ID</string>
   <string id ="GW_STRING_SERVER_MONITOR01">모니터링 시작</string>
@@ -226,7 +227,8 @@
   <string id ="GW_STRING_CONNECTING00">connecting...</string>
   <string id ="GW_STRING_WND_CONNECTING">현 윈도우에서 설비가 연결중입니다, 윈도우 바뀌어 다시 시도...</string>
   <string id ="GW_STRING_FOUNDDEVICE_TITLE">새 장치를 찾았습니다, 수량:</string>
-  <string id ="GW_STRING_FOUNDDEVICE_PWD">비밀번호</string>
+  <string id ="GW_STRING_FOUNDDEVICE_PWD">p2p 비밀번호</string>
+ 
   <string id ="GW_STRING_FOUNDDEVICE_OK">모든 추가</string>
   <string id ="GW_STRING_FOUNDDEVICE_CANCEL">무시</string>
   <string id ="GW_STRING_AUTO_CONNECT">모든 장치에 자동으로 연결</string>
@@ -433,6 +435,7 @@
   <string id ="GW_STRING_CLEAR_PWD">Clear password</string>
   <string id ="GW_STRING_RENDER_MODE">Render Mode</string>
   <string id ="GW_STRING_PWD_SETTING">Password setting</string>
+ 
 
   <string id ="GW_STRING_LOGOUT">Logout</string>
   <string id ="GW_STRING_KEEP_PASSWORD">Keep Password</string>
@@ -468,4 +471,8 @@
   <string id ="GW_STRING_ADD_SHARED_DEV_ERR_01">Invalid link,please ask owner to share it again</string>
   <string id ="GW_STRING_ADD_SHARED_DEV_INVALID_DEV">One or more cameras are not available，please ask owner to share it again</string>
   <string id ="GW_STRING_RTSP_PWD_TIP">Please connect this device by phone and set RTSP password under app "security settings"</string>
+  <string id ="GW_STRING_SERVERINFO_RTSPPSW">Device RTSP password</string> 
+ <string id ="GW_STRING_RTSP_PWD">RTSP 비밀번호</string> 
+ <string id ="GW_STRING_ROUTE_TYPE">Monitor Route</string>
+<string id ="GW_STRING_RTSP_PSW1">RTSP 비밀번호</string>
 </StringTable>
