@@ -30,6 +30,7 @@
   <string id ="GW_STRING_SERVERINFO_GROUP">Device Info</string>
   <string id ="GW_STRING_SERVERINFO_DEVNAME">Device Name</string>
   <string id ="GW_STRING_SERVERINFO_PSW">Device password</string>
+  
   <string id ="GW_STRING_SERVERINFO_AREA">Group Name</string>
   <string id ="GW_STRING_SERVERINFO_P2PID">Device ID</string>
   <string id ="GW_STRING_SERVER_MONITOR01">Start monitoring</string>
@@ -226,7 +227,8 @@
   <string id ="GW_STRING_CONNECTING00">connecting...</string>
   <string id ="GW_STRING_WND_CONNECTING">There is a device conecting in the window, please switch window...</string>
   <string id ="GW_STRING_FOUNDDEVICE_TITLE">Found new devices,count:</string>
-  <string id ="GW_STRING_FOUNDDEVICE_PWD">Password</string>
+  <string id ="GW_STRING_FOUNDDEVICE_PWD">p2p Password</string>
+  
   <string id ="GW_STRING_FOUNDDEVICE_OK">Add all</string>
   <string id ="GW_STRING_FOUNDDEVICE_CANCEL">ignore</string>
   <string id ="GW_STRING_AUTO_CONNECT">Connect all of device automatically</string>
@@ -432,6 +434,7 @@
   <string id ="GW_STRING_CLEAR_PWD">Clear password</string>
   <string id ="GW_STRING_RENDER_MODE">Render Mode</string>
   <string id ="GW_STRING_PWD_SETTING">Password setting</string>
+ 
 
   <string id ="GW_STRING_LOGOUT">Logout</string>
   <string id ="GW_STRING_KEEP_PASSWORD">Keep Password</string>
@@ -467,4 +470,8 @@
   <string id ="GW_STRING_ADD_SHARED_DEV_ERR_01">Invalid link,please ask owner to share it again</string>
   <string id ="GW_STRING_ADD_SHARED_DEV_INVALID_DEV">One or more cameras are not available，please ask owner to share it again</string>
   <string id ="GW_STRING_RTSP_PWD_TIP">Please connect this device by phone and set RTSP password under app "security settings"</string>
+  <string id ="GW_STRING_SERVERINFO_RTSPPSW">Device RTSP password</string>
+<string id ="GW_STRING_RTSP_PWD">RTSP Password</string>
+ <string id ="GW_STRING_ROUTE_TYPE">Monitor Route</string>
+<string id ="GW_STRING_RTSP_PSW1">RTSP Password</string>
 </StringTable>

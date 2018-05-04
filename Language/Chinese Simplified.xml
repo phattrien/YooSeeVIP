@@ -48,6 +48,8 @@
   <string id ="GW_STRING_REGISTER_NAME">用户</string>
   <string id ="GW_STRING_REGISTER_PSW">密码</string>
   <string id ="GW_STRING_REGISTER_PSW1">确认密码</string>
+  
+  
   <string id ="GW_STRING_LOGIN_PSW_TIP">（默认密码为空）</string>
   <string id ="GW_STRING_LOGIN_CONNECT_TIP">是否使用局域网模式?</string>
   <string id ="GW_STRING_NETWORK_MODE_INTERNET">联网模式</string>
@@ -226,7 +228,8 @@
   <string id ="GW_STRING_CONNECTING00">连接中...</string>
   <string id ="GW_STRING_WND_CONNECTING">当前窗口有设备正在连接中,请切换窗口再试...</string>
   <string id ="GW_STRING_FOUNDDEVICE_TITLE">发现新设备,数量:</string>
-  <string id ="GW_STRING_FOUNDDEVICE_PWD">密码</string>
+  <string id ="GW_STRING_FOUNDDEVICE_PWD">p2p密码</string>
+  
   <string id ="GW_STRING_FOUNDDEVICE_OK">一键添加</string>
   <string id ="GW_STRING_FOUNDDEVICE_CANCEL">忽略</string>
   <string id ="GW_STRING_AUTO_CONNECT">自动连接所有设备</string>
@@ -433,6 +436,8 @@
   <string id ="GW_STRING_RENDER_MODE">渲染模式</string>
   <string id ="GW_STRING_PWD_SETTING">密码设置</string>
 
+  
+
   <string id ="GW_STRING_LOGOUT">登出</string>
   <string id ="GW_STRING_KEEP_PASSWORD">记住密码</string>
   <string id ="GW_STRING_AUTO_LOGIN">自动登录</string>
@@ -468,4 +473,8 @@
   <string id ="GW_STRING_ADD_SHARED_DEV_ERR_01">链接已失效，您可以让主人重新分享一次</string>
   <string id ="GW_STRING_ADD_SHARED_DEV_INVALID_DEV">一个或多个摄像头不可用，您可以让主人重新分享一次</string>
   <string id ="GW_STRING_RTSP_PWD_TIP">请用手机连接此设备，并在App安全设置处设置RTSP密码</string>
+    <string id ="GW_STRING_SERVERINFO_RTSPPSW">设备RTSP密码</string>
+<string id ="GW_STRING_RTSP_PWD">RTSP密码</string>
+  <string id ="GW_STRING_ROUTE_TYPE">监控通道</string>
+<string id ="GW_STRING_RTSP_PSW1">RTSP密码</string>
 </StringTable>

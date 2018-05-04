@@ -30,6 +30,7 @@
   <string id ="GW_STRING_SERVERINFO_GROUP">設備資訊</string>
   <string id ="GW_STRING_SERVERINFO_DEVNAME">設備名稱</string>
   <string id ="GW_STRING_SERVERINFO_PSW">設備密碼</string>
+
   <string id ="GW_STRING_SERVERINFO_AREA">分組名稱</string>
   <string id ="GW_STRING_SERVERINFO_P2PID">設備ID</string>
   <string id ="GW_STRING_SERVER_MONITOR01">開始監控</string>
@@ -226,7 +227,8 @@
   <string id ="GW_STRING_CONNECTING00">連接中...</string>
   <string id ="GW_STRING_WND_CONNECTING">當前窗口有設備正在連接中,請切換窗口再試...</string>
   <string id ="GW_STRING_FOUNDDEVICE_TITLE">發現新設備,數量:</string>
-  <string id ="GW_STRING_FOUNDDEVICE_PWD">密碼</string>
+  <string id ="GW_STRING_FOUNDDEVICE_PWD">p2p密碼</string>
+
   <string id ="GW_STRING_FOUNDDEVICE_OK">壹鍵添加</string>
   <string id ="GW_STRING_FOUNDDEVICE_CANCEL">忽略</string>
   <string id ="GW_STRING_AUTO_CONNECT">自動連接所有設備</string>
@@ -257,7 +259,6 @@
   <string id ="GW_STRING_LOGIN_ERROR02">帳號不存在</string>
   <string id ="GW_STRING_LOGIN_ERROR03">密碼錯誤</string>
   <string id ="GW_STRING_LOGIN_ERROR04">郵箱地址數據格式不符合要求</string>
-  
   <string id ="GW_STRING_LOGIN_ERROR05">已登錄</string>
   <string id ="GW_STRING_LOGIN_ERROR06">手機號已被使用</string>
   <string id ="GW_STRING_LOGIN_ERROR07">郵箱已被使用</string>
@@ -432,6 +433,9 @@
   <string id ="GW_STRING_CLEAR_PWD">清除密碼</string>
   <string id ="GW_STRING_RENDER_MODE">渲染模式</string>
   <string id ="GW_STRING_PWD_SETTING">密碼設置</string>
+ 
+  
+
 
   <string id ="GW_STRING_LOGOUT">登出</string>
   <string id ="GW_STRING_KEEP_PASSWORD">保存密碼</string>
@@ -467,4 +471,8 @@
   <string id ="GW_STRING_ADD_SHARED_DEV_ERR_01">鏈接已失效，您可以讓主人重新分享一次</string>
   <string id ="GW_STRING_ADD_SHARED_DEV_INVALID_DEV">一個或多個攝像頭不可用，您可以讓主人重新分享一次</string>
   <string id ="GW_STRING_RTSP_PWD_TIP">請用手機連接此設備，並在App安全設置處設置RTSP密碼</string>
+    <string id ="GW_STRING_SERVERINFO_RTSPPSW">設備RTSP密碼</string>
+  <string id ="GW_STRING_RTSP_PWD">RTSP密碼</string>
+ <string id ="GW_STRING_ROUTE_TYPE">監控通道</string>
+<string id ="GW_STRING_RTSP_PSW1">RTSP密碼</string>
 </StringTable>

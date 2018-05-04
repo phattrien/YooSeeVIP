@@ -463,7 +463,12 @@
   <string id ="GW_STRING_ADD_SHARED_DEV_CLEAR">Clear</string>
   <string id ="GW_STRING_ADD_SHARED_DEV_OK">Completed</string>
   <string id ="GW_STRING_ADD_SHARED_DEV_FAILED">Failed,error code：</string>
-  <string id ="GW_STRING_ADD_SHARED_DEV_ERR_1">Invalid link,please ask owner to share it again</string>
+  <string id ="GW_STRING_ADD_SHARED_DEV_INVALID_LINK">Invalid link</string>
+  <string id ="GW_STRING_ADD_SHARED_DEV_ERR_01">Invalid link,please ask owner to share it again</string>
   <string id ="GW_STRING_ADD_SHARED_DEV_INVALID_DEV">One or more cameras are not available，please ask owner to share it again</string>
   <string id ="GW_STRING_RTSP_PWD_TIP">Please connect this device by phone and set RTSP password under app "security settings"</string>
+  <string id ="GW_STRING_SERVERINFO_RTSPPSW">Device RTSP password</string>
+  <string id ="GW_STRING_RTSP_PWD">RTSP Password</string>
+  <string id ="GW_STRING_ROUTE_TYPE">Monitor Route</string>
+  <string id ="GW_STRING_RTSP_PSW1">RTSP Password</string>
 </StringTable>
