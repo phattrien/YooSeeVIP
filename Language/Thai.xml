@@ -474,16 +474,4 @@
 <string id ="GW_STRING_RTSP_PWD">RTSP รหัสผ่าน</string>
  <string id ="GW_STRING_ROUTE_TYPE">Monitor Route</string>
  <string id ="GW_STRING_RTSP_PSW1">RTSP รหัสผ่าน</string>
-  <string id ="GW_STRING_ADMIN_LOGIN">ผู้ดูแลระบบเข้าสู่ระบบ</string>
-  <string id ="GW_STRING_PHONE_LOGIN">หมายเลขโทรศัพท์มือถือเข้าสู่ระบบ</string>
-  <string id ="GW_STRING_MAIL_ID_LOGIN">กล่องจดหมายของผู้ใช้ / รหัสเข้าสู่ระบบ</string>
-  <string id ="GW_STRING_PHONE_NUM">เบอร์มือถือ</string>
-  <string id ="GW_STRING_MAIL_ID">กล่องจดหมายของผู้ใช้ / รหัส</string>
-  <string id ="GW_STRING_RECV_PUSH_MESG">รับส่งข้อความ</string>
-  <string id ="GW_STRING_SHARE_CONTENT">ให้คุณใช้กับกล้องที่คุณจะได้รับ</string>
-  <string id ="GW_STRING_IS_VALID">ที่ถูกต้อง</string>
-  <string id ="GW_STRING_MESG_NOTICE">การแจ้งเตือนข้อความ</string>
-  <string id ="GW_STRING_MESG_TYPE">ข้อความที่พิมพ์</string>
-  <string id ="GW_STRING_SHARE_MASTER">ผู้ส่ง</string>
-  <string id ="GW_STRING_LEAVING_MESG">ฝากข้อความไว้</string>
 </StringTable>

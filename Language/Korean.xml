@@ -450,7 +450,7 @@
   <string id ="GW_STRING_BTN_TIP_SLOW_FORWARD">Slow Forward</string>
   <string id ="GW_STRING_BATCH_DOWNLOAD_SHOW_MORE">Show More</string>
 
-  <string id ="GW_STRING_LOGIN_TIP">고객님의 아이디가 다른 설비에서 등록하였습니다!</string>
+  <string id ="GW_STRING_LOGIN_TIP">고객님의 아이디가 다른 설비에서 등록하였습니다. 만약 본인의 행위가 아니라면 비번을 빨리 교체하셔서 계정의 안전을 확보하세요</string>
   <string id ="GW_STRING_TEXT_CHECK_FOR_UPDATE_03">Check for product updates on startup</string>
   <string id ="GW_STRING_SHARER_NAME">Sharer</string>
   <string id ="GW_STRING_ADD_SHARED_DEVICE">Add shared device</string>
@@ -475,9 +475,4 @@
  <string id ="GW_STRING_RTSP_PWD">RTSP 비밀번호</string> 
  <string id ="GW_STRING_ROUTE_TYPE">Monitor Route</string>
 <string id ="GW_STRING_RTSP_PSW1">RTSP 비밀번호</string>
-  <string id ="GW_STRING_ADMIN_LOGIN">관리자 로그인</string>
-  <string id ="GW_STRING_PHONE_LOGIN">핸드폰 번호 등록</string>
-  <string id ="GW_STRING_MAIL_ID_LOGIN">메일박스 / 사용자 ID 로그인</string>
-  <string id ="GW_STRING_PHONE_NUM">핸드폰 번호</string>
-  <string id ="GW_STRING_MAIL_ID">메일박스 / 사용자 id</string>
 </StringTable>

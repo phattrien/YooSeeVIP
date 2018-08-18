@@ -449,7 +449,7 @@
   <string id ="GW_STRING_BTN_TIP_SLOW_FORWARD">Slow Forward</string>
   <string id ="GW_STRING_BATCH_DOWNLOAD_SHOW_MORE">Show More</string>
 
-  <string id ="GW_STRING_LOGIN_TIP">Your account has been logined in other places!</string>
+  <string id ="GW_STRING_LOGIN_TIP">Your account has been logined in other places.For the safety of your account,please go to change the password as soon as possible if the operation is not done by yourself</string>
   <string id ="GW_STRING_TEXT_CHECK_FOR_UPDATE_03">Check for product updates on startup</string>
   <string id ="GW_STRING_SHARER_NAME">Sharer</string>
   <string id ="GW_STRING_ADD_SHARED_DEVICE">Add shared device</string>
@@ -474,16 +474,4 @@
 <string id ="GW_STRING_RTSP_PWD">RTSP Password</string>
  <string id ="GW_STRING_ROUTE_TYPE">Monitor Route</string>
 <string id ="GW_STRING_RTSP_PSW1">RTSP Password</string>
-  <string id ="GW_STRING_ADMIN_LOGIN">admin login</string>
-  <string id ="GW_STRING_PHONE_LOGIN">phone number login</string>
-  <string id ="GW_STRING_MAIL_ID_LOGIN">mail/user ID login</string>
-  <string id ="GW_STRING_PHONE_NUM">phone number</string>
-  <string id ="GW_STRING_MAIL_ID">mail/user ID</string>
-  <string id ="GW_STRING_RECV_PUSH_MESG">push message</string>
-  <string id ="GW_STRING_SHARE_CONTENT">Share a video camera to you,accept it?</string>
-  <string id ="GW_STRING_IS_VALID">Is it valid</string>
-  <string id ="GW_STRING_MESG_NOTICE">Message notification</string>
-  <string id ="GW_STRING_MESG_TYPE">Message type</string>
-  <string id ="GW_STRING_SHARE_MASTER">Sender</string>
-  <string id ="GW_STRING_LEAVING_MESG">Leaving a message</string>
 </StringTable>
