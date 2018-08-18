@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <StringTable>
-  <string id ="GW_STRING_APP_TEXT">CMS Camera Client</string>
+  <string id ="GW_STRING_APP_TEXT">CMSClient</string>
   <string id ="GW_STRING_MAIN_TOOLBAR_PREVIEW">Preview</string>
   <string id ="GW_STRING_MAIN_TOOLBAR_PBLOCAL">Playback</string>
   <string id ="GW_STRING_MAIN_TOOLBAR_CMSCFG">Config</string>
@@ -15,7 +15,7 @@
   <string id ="GW_STRING_CFG_AREA">Area property</string>
   <string id ="GW_STRING_ADD_DEVICE">Add device</string>
   <string id ="GW_STRING_CFG_DEVICE">Device property</string>
-  <string id ="GW_STRING_Xóa bỏ_NODE">Xóa bỏ node</string>
+  <string id ="GW_STRING_DELETE_NODE">Delete node</string>
   <string id ="GW_STRING_EXPAND_ALL">Expand</string>
   <string id ="GW_STRING_COLLAPSE_ALL">Collapse</string>
   <string id ="GW_STRING_ALL_MONITOR01">All connect</string>
@@ -107,7 +107,7 @@
   <string id ="GW_STRING_BATCH_DOWNLOAD_SELECT_ALL_CANCEL">Deselect</string>
   <string id ="GW_STRING_BATCH_DOWNLOAD_START">Download</string>
   <string id ="GW_STRING_BATCH_DOWNLOAD_CANCEL">Cancel</string>
-  <string id ="GW_STRING_BATCH_DOWNLOAD_TIP">Đang tải xuống...</string>
+  <string id ="GW_STRING_BATCH_DOWNLOAD_TIP">Downloading...</string>
   
   <string id ="GW_STRING_DLGINFO_CAPTURE">Capture</string> 
   <string id ="GW_STRING_DLGINFO_RECORD">Record</string>
@@ -126,9 +126,9 @@
   <string id ="GW_STRING_OPERATE_REMOTEPLAY_OPEN">start remote playback</string>
   <string id ="GW_STRING_OPERATE_REMOTEPLAY_CLOSE">stop remote playback</string>
   <string id ="GW_STRING_OPERATE_PREVIEW_ERROR_01">connect failed</string>
-  <string id ="GW_STRING_OPERATE_PREVIEW_ERROR_02">mật khẩu error</string>
-  <string id ="GW_STRING_OPERATE_PREVIEW_ERROR_03">mạng connection interrupted</string>
-  <string id ="GW_STRING_OPERATE_PREVIEW_ERROR_04">mạng connection interrupted, system is reconnecting the device...</string>
+  <string id ="GW_STRING_OPERATE_PREVIEW_ERROR_02">password error</string>
+  <string id ="GW_STRING_OPERATE_PREVIEW_ERROR_03">network connection interrupted</string>
+  <string id ="GW_STRING_OPERATE_PREVIEW_ERROR_04">network connection interrupted, system is reconnecting the device...</string>
   <string id ="GW_STRING_OPERATE_PREVIEW_ERROR_05">connection interrupted</string>
   <string id ="GW_STRING_BTNTIP_PREVIEW_RECORD_START">Record</string>
   <string id ="GW_STRING_BTNTIP_PREVIEW_RECORD_STOP">Stop record</string>
@@ -164,13 +164,13 @@
   <string id ="GW_STRING_SAVE">Save</string>
   <string id ="GW_STRING_TEXT_CMS_ERROR01,">User name can not be empty.</string>
   <string id ="GW_STRING_TEXT_CMS_ERROR02,">The user name has been used.</string> 
-  <string id ="GW_STRING_TEXT_CMS_ERROR03,">Mật khẩu can not be empty.</string>
+  <string id ="GW_STRING_TEXT_CMS_ERROR03,">Password can not be empty.</string>
   <string id ="GW_STRING_TEXT_CMS_ERROR04,">The two passwords you typed do not match, please re-enter.</string>
-  <string id ="GW_STRING_TEXT_CMS_ERROR05,">Mật khẩu contains illegal characters.</string>
+  <string id ="GW_STRING_TEXT_CMS_ERROR05,">Password contains illegal characters.</string>
   <string id ="GW_STRING_TEXT_CMS_ERROR08">Please logout all device in the area.</string>
-  <string id ="GW_STRING_TEXT_CMS_ERROR09">Do you want to Xóa bỏ the area?</string>
-  <string id ="GW_STRING_TEXT_CMS_ERROR10">Mật khẩu error</string>
-  <string id ="GW_STRING_TEXT_CMS_ERROR11">Do you want to Xóa bỏ the device?</string>
+  <string id ="GW_STRING_TEXT_CMS_ERROR09">Do you want to delete the area?</string>
+  <string id ="GW_STRING_TEXT_CMS_ERROR10">Password error</string>
+  <string id ="GW_STRING_TEXT_CMS_ERROR11">Do you want to delete the device?</string>
   <string id ="GW_STRING_TEXT_CMS_ERROR12">Account does not exist.</string>
   <string id ="GW_STRING_TEXT_CMS_ERROR13">Device name can not be empty!</string>
   <string id ="GW_STRING_TEXT_CMS_ERROR14">The ip addresses can not contains single quotes!</string>
@@ -191,13 +191,13 @@
   <string id ="GW_STRING_BTN_LOCALPARAM_PARAM_LISTEN">Audition</string>
   <string id ="GW_STRING_TEXT_LOCALPARAM_PARAM_SAVE_SUCCESS">Save parameters successfully! Do you want to quit?</string>
   <string id ="GW_STRING_BTN_LOCALPARAM_USER_ADD">Add</string>
-  <string id ="GW_STRING_BTN_LOCALPARAM_USER_DEL">Xóa bỏ</string>
+  <string id ="GW_STRING_BTN_LOCALPARAM_USER_DEL">Delete</string>
   <string id ="GW_STRING_LIST_LOCALPARAM_USER_TITLE00">Index</string>
   <string id ="GW_STRING_LIST_LOCALPARAM_USER_TITLE01">User name</string>
   <string id ="GW_STRING_LIST_LOCALPARAM_USER_TITLE02">User type</string>
-  <string id ="GW_STRING_TEXT_LOCALPARAM_USER_Xóa bỏ">Do you want to Xóa bỏ user</string>
-  <string id ="GW_STRING_TEXT_LOCALPARAM_USER_NODEL">Can not Xóa bỏ the current user.</string>
-  <string id ="GW_STRING_TEXT_LOCALPARAM_USER_NODELADMIN">Can not Xóa bỏ Admin.</string>
+  <string id ="GW_STRING_TEXT_LOCALPARAM_USER_DELETE">Do you want to delete user</string>
+  <string id ="GW_STRING_TEXT_LOCALPARAM_USER_NODEL">Can not delete the current user.</string>
+  <string id ="GW_STRING_TEXT_LOCALPARAM_USER_NODELADMIN">Can not delete Admin.</string>
   <string id ="GW_STRING_LAB_LOCALPARAM_ALARM_VIDEO">Pop video</string>
   <string id ="GW_STRING_LAB_LOCALPARAM_ALARM_BUZZER">Buzzer</string>
   <string id ="GW_STRING_WNDTITLE_PLAYBACK_LOCAL">Playback</string>  
@@ -227,12 +227,12 @@
   <string id ="GW_STRING_CONNECTING00">connecting...</string>
   <string id ="GW_STRING_WND_CONNECTING">There is a device conecting in the window, please switch window...</string>
   <string id ="GW_STRING_FOUNDDEVICE_TITLE">Found new devices,count:</string>
-  <string id ="GW_STRING_FOUNDDEVICE_PWD">p2p Mật khẩu</string>
+  <string id ="GW_STRING_FOUNDDEVICE_PWD">p2p Password</string>
   
   <string id ="GW_STRING_FOUNDDEVICE_OK">Add all</string>
   <string id ="GW_STRING_FOUNDDEVICE_CANCEL">ignore</string>
   <string id ="GW_STRING_AUTO_CONNECT">Connect all of device automatically</string>
-  <string id ="GW_STRING_P2P_FAILED">Mạng initialization failed</string>
+  <string id ="GW_STRING_P2P_FAILED">Network initialization failed</string>
   <string id ="GW_STRING_TIP_ERROR">Error</string>
   <string id ="GW_STRING_TIP_WARNING">Warning</string>
   <string id ="GW_STRING_WARNING_TALKING">is using the interphone, do you want to continue?</string>
@@ -246,7 +246,7 @@
   <string id ="GW_STRING_LAB_MAINLOG_BEGIN">Begin time</string>
   <string id ="GW_STRING_LAB_MAINLOG_END">End time</string>
   <string id ="GW_STRING_BTN_MAINLOG_SEARCH">Search</string>
-  <string id ="GW_STRING_BTN_MAINLOG_Sao lưu">Sao lưu</string>
+  <string id ="GW_STRING_BTN_MAINLOG_BACKUP">Backup</string>
   <string id ="GW_STRING_TEXT_MAINLOG_TYPE0">Alarm log</string>
   <string id ="GW_STRING_TEXT_MAINLOG_TYPE1">Operation log</string>
   <string id ="GW_STRING_TEXT_MAINLOG_LIST0">Index</string>
@@ -257,17 +257,17 @@
   <string id ="GW_STRING_TEXT_MAINLOG_ALLDEVICE">All device</string>
   <string id ="GW_STRING_LOGIN_ERROR01">The operation failed</string>
   <string id ="GW_STRING_LOGIN_ERROR02">Account does not exist</string>
-  <string id ="GW_STRING_LOGIN_ERROR03">Mật khẩu Error</string>
+  <string id ="GW_STRING_LOGIN_ERROR03">Password Error</string>
   
   <string id ="GW_STRING_LOGIN_ERROR04">E-mail address data format does not meet the requirements</string>
   <string id ="GW_STRING_LOGIN_ERROR05">Has logged</string>
   <string id ="GW_STRING_LOGIN_ERROR06">Phone number is already in use</string>
   <string id ="GW_STRING_LOGIN_ERROR07">E-mail has been used</string>
-  <string id ="GW_STRING_LOGIN_ERROR08">Mật khẩu data format does not meet the requirements</string>
+  <string id ="GW_STRING_LOGIN_ERROR08">Password data format does not meet the requirements</string>
   <string id ="GW_STRING_LOGIN_ERROR09">Phone number data format does not meet the requirements</string>
   <string id ="GW_STRING_LOGIN_ERROR10">The two passwords do not match</string>
-  <string id ="GW_STRING_LOGIN_ERROR11">Old mật khẩu error</string>
-  <string id ="GW_STRING_LOGIN_ERROR12">Old mật khẩu does not meet the requirements of the data format</string> 
+  <string id ="GW_STRING_LOGIN_ERROR11">Old password error</string>
+  <string id ="GW_STRING_LOGIN_ERROR12">Old password does not meet the requirements of the data format</string> 
   <string id ="GW_STRING_LOGIN_ERROR13">No records</string>
   <string id ="GW_STRING_LOGIN_ERROR14">Data parameter error</string>
   <string id ="GW_STRING_LOGIN_ERROR15">The other is your friend, you can not repeat the add</string>
@@ -288,13 +288,13 @@
   <string id ="GW_STRING_LOGIN_ERROR30">Incoming parameter contains illegal characters</string>
   <string id ="GW_STRING_LOGIN_ERROR31">System configuration error</string>
   <string id ="GW_STRING_LOGIN_ERROR32">Failed to send verification email</string>
-  <string id ="GW_STRING_LOGIN_ERROR33">Reset Mật khẩu link does not work</string>
+  <string id ="GW_STRING_LOGIN_ERROR33">Reset Password link does not work</string>
   <string id ="GW_STRING_LOGIN_ERROR34">Send phone verification code fails</string>
   <string id ="GW_STRING_LOGIN_ERROR35">Insufficient permissions</string>
   <string id ="GW_STRING_LOGIN_ERROR36">Administrator account does not exist</string>
   <string id ="GW_STRING_LOGIN_ERROR37">Administrators already exists</string>
-  <string id ="GW_STRING_LOGIN_ERROR38">Administrators can disable or Xóa bỏ their account</string>
-  <string id ="GW_STRING_LOGIN_ERROR39">Requires the client to resubmit the request after the Cập nhật list of domain names based on the return DomainList</string>
+  <string id ="GW_STRING_LOGIN_ERROR38">Administrators can disable or delete their account</string>
+  <string id ="GW_STRING_LOGIN_ERROR39">Requires the client to resubmit the request after the update list of domain names based on the return DomainList</string>
   <string id ="GW_STRING_LOGIN_ERROR40">Record already exists</string>
   <string id ="GW_STRING_LOGIN_ERROR41">Operands have reached the limit</string>
   <string id ="GW_STRING_LOGIN_ERROR42">Decoding error</string>
@@ -305,7 +305,7 @@
   <string id ="GW_STRING_LOGIN_ERROR47">Automatically assign the account fails</string>  
   <string id ="GW_STRING_LOGIN_ERROR48">The number of binding primary number has reached the upper limit</string>
   <string id ="GW_STRING_LOGIN_ERROR49">-</string>
-  <string id ="GW_STRING_LOGIN_ERROR50">Account or mật khẩu error</string>
+  <string id ="GW_STRING_LOGIN_ERROR50">Account or password error</string>
   <string id ="GW_STRING_LOGIN_ERROR51">On a non-existent</string>
   <string id ="GW_STRING_LOGIN_ERROR52">Group does not exist</string>
   <string id ="GW_STRING_LOGIN_ERROR53">No group information, please add group</string>
@@ -313,13 +313,13 @@
   <string id ="GW_STRING_LOGIN_ERROR54">User exists within the group, remove the user after the operation</string>
   <string id ="GW_STRING_LOGIN_ERROR55">Devices exist within the group, remove the device after the operation</string>
   <string id ="GW_STRING_LOGIN_ERROR56">There are sub-groups exist within the group, remove the sub-grouping after the operation</string>
-  <string id ="GW_STRING_LOGIN_ERROR57">You can not Xóa bỏ itself</string>
+  <string id ="GW_STRING_LOGIN_ERROR57">You can not delete itself</string>
   <string id ="GW_STRING_LOGIN_ERROR58">Reserved accounts, can not tamper</string>
   <string id ="GW_STRING_LOGIN_ERROR59">Already exists on the device whitelist binding by modifying</string>
   <string id ="GW_STRING_LOGIN_ERROR60">Do not select a file to upload</string>
   <string id ="GW_STRING_LOGIN_ERROR61">Upload file format illegal</string>
   <string id ="GW_STRING_LOGIN_ERROR62">The record does not exist</string>
-  <string id ="GW_STRING_LOGIN_ERROR63">Recommended contents have reached the limit, Xóa bỏ part of the record after the operation</string>
+  <string id ="GW_STRING_LOGIN_ERROR63">Recommended contents have reached the limit, delete part of the record after the operation</string>
   <string id ="GW_STRING_LOGIN_ERROR64">Mall ID already exists</string>
   <string id ="GW_STRING_LOGIN_ERROR70">Request submitted only partially successful execution</string>
   <string id ="GW_STRING_LOGIN_ERROR90">Synchronization failed with the center</string>
@@ -342,7 +342,7 @@
   <string id ="GW_STRING_ALRAM_DEF_ENABLE">Defence Alarm</string>
   <string id ="GW_STRING_ALRAM_DEF_DISABLE">Defence Disable Alarm</string>
   <string id ="GW_STRING_ALRAM_BATTERY_LOW_VOL">Battery Low Voltage Alarm</string>
-  <string id ="GW_STRING_ALRAM_Cập nhật_TO_SER">Parameters Upload Server</string>
+  <string id ="GW_STRING_ALRAM_UPDATE_TO_SER">Parameters Upload Server</string>
   <string id ="GW_STRING_ALRAM_TH">Temperature/humidity Alarm</string>
   <string id ="GW_STRING_ALRAM_DOORBELL_PUSH">Doorbell Push</string>
   <string id ="GW_STRING_ALRAM_FORCE_FROM_KEYPRESS">Key Press</string>
@@ -351,17 +351,17 @@
   <string id ="GW_STRING_ALRAM_UNKNOW">Unknow Alarm</string>
   <string id ="GW_STRING_CONNECT_CHECK_PREVIEW">The device is previewing, do you want to stop it and continue?</string>
   <string id ="GW_STRING_CONNECT_CHECK_REMOTE">The device is playing remote file, do you want to stop it and continue?</string>
-  <string id ="GW_STRING_CONNECT_CHECK_DWONLOAD">The device is Đang tải xuống remote file, do you want to stop it and continue?</string>
-  <string id ="GW_STRING_ACK_ERROR01">mật khẩu error.</string>
-  <string id ="GW_STRING_ACK_ERROR02">mạng timeout.</string>  
+  <string id ="GW_STRING_CONNECT_CHECK_DWONLOAD">The device is downloading remote file, do you want to stop it and continue?</string>
+  <string id ="GW_STRING_ACK_ERROR01">password error.</string>
+  <string id ="GW_STRING_ACK_ERROR02">network timeout.</string>  
   <string id ="GW_STRING_ACK_ERROR03">push failed</string>
   <string id ="GW_STRING_ACK_ERROR04">insufficient permissions.</string>
   <string id ="GW_STRING_ACK_ERROR05">send command failed.</string>
   <string id ="GW_STRING_TIP_NORECORD">Did not get any remote record file.</string>
   <string id ="GW_STRING_CRC_ERROR">Configuration file is corrupted, please reinstall the client.</string>
   
-  <string id ="GW_STRING_IPCONFIG">Mạng</string>
-  <string id ="GW_STRING_IPCONFIG_NETTYPE_TEXT">Kiểu kết nối</string>
+  <string id ="GW_STRING_IPCONFIG">Network</string>
+  <string id ="GW_STRING_IPCONFIG_NETTYPE_TEXT">Connection Type</string>
   <string id ="GW_STRING_IPCONFIG_NETTYPE00">Wired</string>
   <string id ="GW_STRING_IPCONFIG_NETTYPE01">WIFI</string>
   <string id ="GW_STRING_IPCONFIG_NETAUTO">Obtain an IP address automatically</string>
@@ -373,7 +373,7 @@
   <string id ="GW_STRING_BTN_REFRESH">Refresh</string>
   <string id ="GW_STRING_BTN_SET">Set</string>
   <string id ="GW_STRING_STATUS_REFRESH">Getting Parameters,please wait...</string>
-  <string id ="GW_STRING_STATUS_SET">Cài đặt Parameters,please wait...</string>
+  <string id ="GW_STRING_STATUS_SET">Setting Parameters,please wait...</string>
   <string id ="GW_STRING_GET_PARAM_OK">Get parameter successfully</string>
   <string id ="GW_STRING_GET_PARAM_FAILED">Failure to obtain parameters</string>
   <string id ="GW_STRING_SET_PARAM_OK">Set parameter successfully</string>
@@ -382,12 +382,12 @@
   <string id ="GW_STRING_ERROR_IP_CONFLICT">IP address conflict.</string>
   <string id ="GW_STRING_ERROR_DEVICE_STATUS">device is in the state being monitored or recording</string>
   <string id ="GW_STRING_ERROR_UNKNOWN">unknown error</string>
-  <string id ="GW_STRING_ERROR_NOTSUPPORT">Device does not support this cài đặt</string>
+  <string id ="GW_STRING_ERROR_NOTSUPPORT">Device does not support this setting</string>
   <string id ="GW_STRING_ERROR_INVALID_IP">Invalid IP address</string>
   <string id ="GW_STRING_ERROR_INVALID_MASK">Invalid subnet mask</string>
   <string id ="GW_STRING_ERROR_INVALID_GATEWAY">Invalid gateway</string>
   <string id ="GW_STRING_ERROR_INVALID_DNS">Invalid DNS</string>
-  <string id ="GW_STRING_ERROR_INVALID_IPGATEWAY">IP address and gateway should be on the same mạng segment.</string>
+  <string id ="GW_STRING_ERROR_INVALID_IPGATEWAY">IP address and gateway should be on the same network segment.</string>
   <string id ="GW_STRING_ERROR_NOTCHANGE">Parameters did not change</string>
   <string id ="GW_STRING_REMOTE_CONFIG">IPC Config</string>
   <string id ="GW_STRING_RECORDCONFIG">Record</string>
@@ -403,45 +403,45 @@
   <string id ="GW_STRING_TEXT_DEVICES_SEARCHED">LAN Devices recently searched:</string>
   <string id ="GW_STRING_TEXT_DEVICES_ADDED">Devices added:</string>
   <string id ="GW_STRING_TEXT_BTN_MANUAL_ADD">Manual add device</string>
-  <string id ="GW_STRING_TEXT_Xóa bỏ_DEVICE_ERROR_TIP">Can not Xóa bỏ device which is connecting!</string>
-  <string id ="GW_STRING_TEXT_LAN_INTERRUPT">LAN mạng disconnected</string>
+  <string id ="GW_STRING_TEXT_DELETE_DEVICE_ERROR_TIP">Can not delete device which is connecting!</string>
+  <string id ="GW_STRING_TEXT_LAN_INTERRUPT">LAN network disconnected</string>
   <string id ="GW_STRING_TEXT_LAN_RECONNECTOK">LAN reconnect successfully</string>
-  <string id ="GW_STRING_TEXT_WLAN_INTERRUPT">WLAN mạng disconnected</string>
+  <string id ="GW_STRING_TEXT_WLAN_INTERRUPT">WLAN network disconnected</string>
   <string id ="GW_STRING_TEXT_WLAN_RECONNECTOK">WLAN reconnect successfully</string>
   <string id ="GW_STRING_TEXT_RECFILE_PACKAGE">Packaged record file</string>
   
-  <string id ="GW_STRING_TEXT_RECFILE_AUTO_Xóa bỏ">Automatically remove invalid record files</string>
+  <string id ="GW_STRING_TEXT_RECFILE_AUTO_DELETE">Automatically remove invalid record files</string>
   <string id ="GW_STRING_TEXT_OPEN_FILE_DIRECTORY">Open directory</string>
-  <string id ="GW_STRING_TEXT_SET_PASSWORD_TIP">Please set a mật khẩu for the IPC!</string>
+  <string id ="GW_STRING_TEXT_SET_PASSWORD_TIP">Please set a password for the IPC!</string>
   <string id ="GW_STRING_GET_FRIENDLIST_ERROR">Get friend list failed</string>
   <string id ="GW_STRING_QQ_CONNECT_TIP">Please connect the current operating device to the LAN.</string>
   <string id ="GW_STRING_RTSP_INTERCOM_UNSUPPORT_TIP">Device does not support the intercom at rtsp mode! Please upgrade the device!</string>
   <string id ="GW_STRING_LOCAL_ALL_OPEN">All open</string>
   <string id ="GW_STRING_LOCAL_ALL_CLOSE">All close</string>
-  <string id ="GW_STRING_Sao lưu_LIST_HEAD">,25;NO.,50; Path,300; Size,70; Progress,70;</string>
-  <string id ="GW_STRING_Sao lưu_START">Start</string>
-  <string id ="GW_STRING_Sao lưu_STOP">Stop</string>
-  <string id ="GW_STRING_TIP_SEARCH_FOR_Sao lưu">Please search record files.</string>
-  <string id ="GW_STRING_TIP_SELECT_FOR_Sao lưu">Please select files you want to save as mp4</string>
+  <string id ="GW_STRING_BACKUP_LIST_HEAD">,25;NO.,50; Path,300; Size,70; Progress,70;</string>
+  <string id ="GW_STRING_BACKUP_START">Start</string>
+  <string id ="GW_STRING_BACKUP_STOP">Stop</string>
+  <string id ="GW_STRING_TIP_SEARCH_FOR_BACKUP">Please search record files.</string>
+  <string id ="GW_STRING_TIP_SELECT_FOR_BACKUP">Please select files you want to save as mp4</string>
   <string id ="GW_STRING_TIP_ERROR_PATH">Save path is invalid, please re-enter</string>
-  <string id ="GW_STRING_LAB_Sao lưu_SAVEAS">Save path</string>
+  <string id ="GW_STRING_LAB_BACKUP_SAVEAS">Save path</string>
   <string id ="GW_STRING_TEXT_CONVERT">Converting files to MP4</string>
   <string id ="GW_STRING_DEFENCE_AREA">Area</string>
   <string id ="GW_STRING_DEFENCE_CHANNEL">Channel</string>
 
-  <string id ="GW_STRING_BATCH_SETTING">Batch cài đặt</string>
-  <string id ="GW_STRING_INIT_PWD">Init mật khẩu</string>
-  <string id ="GW_STRING_CLEAR_PWD">Clear mật khẩu</string>
+  <string id ="GW_STRING_BATCH_SETTING">Batch setting</string>
+  <string id ="GW_STRING_INIT_PWD">Init password</string>
+  <string id ="GW_STRING_CLEAR_PWD">Clear password</string>
   <string id ="GW_STRING_RENDER_MODE">Render Mode</string>
-  <string id ="GW_STRING_PWD_SETTING">Mật khẩu cài đặt</string>
+  <string id ="GW_STRING_PWD_SETTING">Password setting</string>
  
 
-  <string id ="GW_STRING_LOGOUT">Đăng xuất</string>
-  <string id ="GW_STRING_KEEP_PASSWORD">Nhớ mật khẩu</string>
-  <string id ="GW_STRING_AUTO_LOGIN">Tự động đăng nhập</string>
-  <string id ="GW_STRING_CHECK_FOR_Cập nhật">Cập nhật</string>
-  <string id ="GW_STRING_TEXT_CHECK_FOR_Cập nhật_01">New version available,download now?</string>
-  <string id ="GW_STRING_TEXT_CHECK_FOR_Cập nhật_02">No new version available.</string>
+  <string id ="GW_STRING_LOGOUT">Logout</string>
+  <string id ="GW_STRING_KEEP_PASSWORD">Keep Password</string>
+  <string id ="GW_STRING_AUTO_LOGIN">Auto Login</string>
+  <string id ="GW_STRING_CHECK_FOR_UPDATE">Update</string>
+  <string id ="GW_STRING_TEXT_CHECK_FOR_UPDATE_01">New version available,download now?</string>
+  <string id ="GW_STRING_TEXT_CHECK_FOR_UPDATE_02">No new version available.</string>
 
   <string id ="GW_STRING_CLEAR_LIST">Clear</string>
   <string id ="GW_STRING_BTN_LOCALCFG_SYSTEM_INFO">System Info</string>
@@ -450,18 +450,18 @@
   <string id ="GW_STRING_BATCH_DOWNLOAD_SHOW_MORE">Show More</string>
 
   <string id ="GW_STRING_LOGIN_TIP">Your account has been logined in other places!</string>
-  <string id ="GW_STRING_TEXT_CHECK_FOR_Cập nhật_03">Check for product Cập nhậts on startup</string>
+  <string id ="GW_STRING_TEXT_CHECK_FOR_UPDATE_03">Check for product updates on startup</string>
   <string id ="GW_STRING_SHARER_NAME">Sharer</string>
   <string id ="GW_STRING_ADD_SHARED_DEVICE">Add shared device</string>
 
-  <string id ="GW_STRING_Cập nhật_GET_UPGFILE">Đang tải xuống Cập nhật files</string>
-  <string id ="GW_STRING_Cập nhật_Sao lưu">Sao lưu files</string>
-  <string id ="GW_STRING_Cập nhật_DEC">Decompressing</string>
-  <string id ="GW_STRING_Cập nhật_UPGDB">Đang cập nhật database</string>
-  <string id ="GW_STRING_Cập nhật_UPGCFG">Đang cập nhật profile</string>
-  <string id ="GW_STRING_Cập nhật_UPGREG">Đang cập nhật registry</string>
-  <string id ="GW_STRING_Cập nhật_DELCACHE">Xóa bỏ the cache file</string>
-  <string id ="GW_STRING_Cập nhật_DONE">Cập nhật completed</string>
+  <string id ="GW_STRING_UPDATE_GET_UPGFILE">Downloading update files</string>
+  <string id ="GW_STRING_UPDATE_BACKUP">Backup files</string>
+  <string id ="GW_STRING_UPDATE_DEC">Decompressing</string>
+  <string id ="GW_STRING_UPDATE_UPGDB">Updating database</string>
+  <string id ="GW_STRING_UPDATE_UPGCFG">Updating profile</string>
+  <string id ="GW_STRING_UPDATE_UPGREG">Updating registry</string>
+  <string id ="GW_STRING_UPDATE_DELCACHE">Delete the cache file</string>
+  <string id ="GW_STRING_UPDATE_DONE">Update completed</string>
 
   <string id ="GW_STRING_ADD_SHARED_DEV_CLEAR">Clear</string>
   <string id ="GW_STRING_ADD_SHARED_DEV_OK">Completed</string>
@@ -469,11 +469,11 @@
   <string id ="GW_STRING_ADD_SHARED_DEV_INVALID_LINK">Invalid link</string>
   <string id ="GW_STRING_ADD_SHARED_DEV_ERR_01">Invalid link,please ask owner to share it again</string>
   <string id ="GW_STRING_ADD_SHARED_DEV_INVALID_DEV">One or more cameras are not available，please ask owner to share it again</string>
-  <string id ="GW_STRING_RTSP_PWD_TIP">Please connect this device by phone and set RTSP mật khẩu under app "security settings"</string>
-  <string id ="GW_STRING_SERVERINFO_RTSPPSW">Device RTSP mật khẩu</string>
-<string id ="GW_STRING_RTSP_PWD">RTSP Mật khẩu</string>
+  <string id ="GW_STRING_RTSP_PWD_TIP">Please connect this device by phone and set RTSP password under app "security settings"</string>
+  <string id ="GW_STRING_SERVERINFO_RTSPPSW">Device RTSP password</string>
+<string id ="GW_STRING_RTSP_PWD">RTSP Password</string>
  <string id ="GW_STRING_ROUTE_TYPE">Monitor Route</string>
-<string id ="GW_STRING_RTSP_PSW1">RTSP Mật khẩu</string>
+<string id ="GW_STRING_RTSP_PSW1">RTSP Password</string>
   <string id ="GW_STRING_ADMIN_LOGIN">Admin Login</string>
   <string id ="GW_STRING_PHONE_LOGIN">Số điện thoại login</string>
   <string id ="GW_STRING_MAIL_ID_LOGIN">Email/user ID login</string>
