@@ -474,11 +474,11 @@
 <string id ="GW_STRING_RTSP_PWD">RTSP Password</string>
  <string id ="GW_STRING_ROUTE_TYPE">Monitor Route</string>
 <string id ="GW_STRING_RTSP_PSW1">RTSP Password</string>
-  <string id ="GW_STRING_ADMIN_LOGIN">admin login</string>
-  <string id ="GW_STRING_PHONE_LOGIN">phone number login</string>
-  <string id ="GW_STRING_MAIL_ID_LOGIN">mail/user ID login</string>
-  <string id ="GW_STRING_PHONE_NUM">phone number</string>
-  <string id ="GW_STRING_MAIL_ID">mail/user ID</string>
+  <string id ="GW_STRING_ADMIN_LOGIN">Admin login</string>
+  <string id ="GW_STRING_PHONE_LOGIN">Phone number login</string>
+  <string id ="GW_STRING_MAIL_ID_LOGIN">Email/user ID login</string>
+  <string id ="GW_STRING_PHONE_NUM">Phone number</string>
+  <string id ="GW_STRING_MAIL_ID">Email/user ID</string>
   <string id ="GW_STRING_RECV_PUSH_MESG">push message</string>
   <string id ="GW_STRING_SHARE_CONTENT">Share a video camera to you,accept it?</string>
   <string id ="GW_STRING_IS_VALID">Is it valid</string>

@@ -451,7 +451,7 @@
   <string id ="GW_STRING_BTN_TIP_SLOW_FORWARD">慢放</string>
   <string id ="GW_STRING_BATCH_DOWNLOAD_SHOW_MORE">显示更多</string>
 
-  <string id ="GW_STRING_LOGIN_TIP">您的账户已经在别处登录，如非本人操作，请尽快修改登录密码，确保账户安全。</string>
+  <string id ="GW_STRING_LOGIN_TIP">您的账户在别处登录!</string>
 
   <string id ="GW_STRING_TEXT_CHECK_FOR_UPDATE_03">启动时检查更新</string>
   <string id ="GW_STRING_SHARER_NAME">分享者</string>
@@ -477,4 +477,17 @@
 <string id ="GW_STRING_RTSP_PWD">RTSP密码</string>
   <string id ="GW_STRING_ROUTE_TYPE">监控通道</string>
 <string id ="GW_STRING_RTSP_PSW1">RTSP密码</string>
+<string id ="GW_STRING_ADMIN_LOGIN">admin登录</string>
+<string id ="GW_STRING_PHONE_LOGIN">手机登录</string>
+<string id ="GW_STRING_MAIL_ID_LOGIN">邮箱/用户ID登录</string>
+  <string id ="GW_STRING_PHONE_NUM">手机号</string>
+  <string id ="GW_STRING_MAIL_ID">邮箱/用户ID</string> 
+  <string id ="GW_STRING_RECV_PUSH_MESG">推送消息</string>
+  <string id ="GW_STRING_SHARE_CONTENT">向您分享了一台摄像机，是否接收?</string>
+  <string id ="GW_STRING_IS_VALID">是否有效</string>
+  <string id ="GW_STRING_MESG_NOTICE">消息通知</string>
+  <string id ="GW_STRING_MESG_TYPE">消息类型</string>
+  <string id ="GW_STRING_SHARE_MASTER">发信人</string>
+  <string id ="GW_STRING_LEAVING_MESG">留言</string>
+ 
 </StringTable>

@@ -4,17 +4,17 @@
     <RtspHeartBeatInterval>3000</RtspHeartBeatInterval>
     <RtspHeartBeatSocketWaittime>1500</RtspHeartBeatSocketWaittime>
     <MaxShowWnd>49</MaxShowWnd>
-    <SaveFilePath>D:\CMS Files\</SaveFilePath>
-    <BackupPath>C:\CMS Files\</BackupPath>
+    <SaveFilePath>D:\CMSCamera\</SaveFilePath>
+    <BackupPath>D:\CMSCamera\</BackupPath>
     <HasModifiyPwd>1</HasModifiyPwd>
     <ReserveSize>1024</ReserveSize>
     <RecFileSize>60</RecFileSize>
     <Quality>1</Quality>
-    <RenderMode>1</RenderMode>
+    <RenderMode>0</RenderMode>
     <VedioRoute>0</VedioRoute>
-    <GetUpdateInfo>0</GetUpdateInfo>
-    <Password>qwe123</Password>
-    <RtspPassword>qwe123</RtspPassword>
+    <GetUpdateInfo>1</GetUpdateInfo>
+    <Password>123</Password>
+    <RtspPassword>123</RtspPassword>
     <SupportRtsp>1</SupportRtsp>
     <AutoConnect>0</AutoConnect>
     <AutoRecord>0</AutoRecord>
@@ -27,12 +27,14 @@
     <CusCRC>-1198372910</CusCRC>
     <WsID>KqF1GGbg87U=</WsID>
     <WsCRC>1454294126</WsCRC>
-    <Feature>aad31f663d63f455e90d16b1cc834306</Feature>
+    <Feature>3cd678ddefe7d0bb337fef6dd2583e10</Feature>
     <SptNReg>1</SptNReg>
     <Binded>1</Binded>
     <SharedDevUpgFlag>0</SharedDevUpgFlag>
-    <VersionInfo>1.00.00.46</VersionInfo>
+    <VersionInfo>1.00.00.47</VersionInfo>
     <UserName>admin</UserName>
+    <UserPhone></UserPhone>
+    <UserMail></UserMail>
     <WndColDefault>1</WndColDefault>
     <EnLocalNullPwd>1</EnLocalNullPwd>
     <DefLocalPwd>00000000</DefLocalPwd>
@@ -40,11 +42,26 @@
     <LanguageSelect>1</LanguageSelect>
     <Language0>English</Language0>
     <Language1>VietNam</Language1>
-    <Language2>Traditional</Language2>
-    <Language3>Korean</Language3>
-    <Language4>Thai</Language4>
-    <Language5>Portuguese</Language5>
-    <Language6>German</Language6>
-    <Language7>Polish</Language7>
-    <Language8>Russian</Language8>
+    <Language2>VI</Language2>
+    <Language3>YYP2P</Language3>
+    <Language4>YooSee</Language4>
+    <Language5>WinTech</Language5>
+    <Language6>Minh</Language6>
+    <Language7>Thien</Language7>
+    <Language8>Vuong</Language8>
+    <CountryCodeCont>9</CountryCodeCont>
+    <CountryCodeSelect>1</CountryCodeSelect>
+    <CountryCode0>+1</CountryCode0>
+    <CountryCode1>+84</CountryCode1>
+    <CountryCode2>+84</CountryCode2>
+    <CountryCode3>+84</CountryCode3>
+    <CountryCode4>+84</CountryCode4>
+    <CountryCode5>+84</CountryCode5>
+    <CountryCode6>+84</CountryCode6>
+    <CountryCode7>+84</CountryCode7>
+    <CountryCode8>+84</CountryCode8>
+    <LoginType>0</LoginType>
+    <RecvPushMesg>1</RecvPushMesg>
+    <TipsForMesg>0</TipsForMesg>
+    <shareMesgId>0</shareMesgId>
 </Config>
