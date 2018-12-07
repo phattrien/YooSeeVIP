@@ -487,4 +487,11 @@
   <string id ="GW_STRING_MESG_TYPE">消息類型 </string>
   <string id ="GW_STRING_SHARE_MASTER">發信人</string>
   <string id ="GW_STRING_LEAVING_MESG">留言</string>
+
+  <string id ="GW_STRING_ADD_SHARED_DEV_ERR_COUNT_LIMIT">添加的當前設備數量已經達到上限</string>
+  <string id ="GW_STRING_ADD_SHARED_DEV_ERR_HISTORY_LIMIT">添加的歷史設備數量已經達到上限</string>
+  <string id ="GW_STRING_ADD_SHARED_DEV_ERR_BINDED_LIMIT">當前設備被綁定的數量已經達到上限</string>
+
+  <string id ="GW_STRING_BTNTIP_PREVIEW_ZOOMIN">放大</string>
+  <string id ="GW_STRING_BTNTIP_PREVIEW_ZOOMOUT">縮小</string>
 </StringTable>

@@ -480,4 +480,12 @@
   <string id ="GW_STRING_MAIL_ID_LOGIN">메일박스 / 사용자 ID 로그인</string>
   <string id ="GW_STRING_PHONE_NUM">핸드폰 번호</string>
   <string id ="GW_STRING_MAIL_ID">메일박스 / 사용자 id</string>
+
+
+  <string id ="GW_STRING_ADD_SHARED_DEV_ERR_COUNT_LIMIT">The current number of devices added has reached the limit</string>
+  <string id ="GW_STRING_ADD_SHARED_DEV_ERR_HISTORY_LIMIT">The number of historical devices added has reached the limit</string>
+  <string id ="GW_STRING_ADD_SHARED_DEV_ERR_BINDED_LIMIT">The current device has been bound too much times</string>
+
+  <string id ="GW_STRING_BTNTIP_PREVIEW_ZOOMIN">Zoom in</string>
+  <string id ="GW_STRING_BTNTIP_PREVIEW_ZOOMOUT">Zoom out</string>
 </StringTable>
