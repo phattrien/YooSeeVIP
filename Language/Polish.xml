@@ -484,11 +484,4 @@
   <string id ="GW_STRING_MESG_TYPE">rodzaje wiadomości</string>
   <string id ="GW_STRING_SHARE_MASTER">nadawcy.</string>
   <string id ="GW_STRING_LEAVING_MESG">wiadomość.</string>
-
-  <string id ="GW_STRING_ADD_SHARED_DEV_ERR_COUNT_LIMIT">The current number of devices added has reached the limit</string>
-  <string id ="GW_STRING_ADD_SHARED_DEV_ERR_HISTORY_LIMIT">The number of historical devices added has reached the limit</string>
-  <string id ="GW_STRING_ADD_SHARED_DEV_ERR_BINDED_LIMIT">The current device has been bound too much times</string>
-
-  <string id ="GW_STRING_BTNTIP_PREVIEW_ZOOMIN">Zoom in</string>
-  <string id ="GW_STRING_BTNTIP_PREVIEW_ZOOMOUT">Zoom out</string>
 </StringTable>
