@@ -5,7 +5,7 @@
     <RtspHeartBeatSocketWaittime>1500</RtspHeartBeatSocketWaittime>
     <MaxShowWnd>49</MaxShowWnd>
     <SaveFilePath>D:\CMS Files\</SaveFilePath>
-    <BackupPath>C:\CMS Files\</BackupPath>
+    <BackupPath>D:\CMS Files\</BackupPath>
     <HasModifiyPwd>0</HasModifiyPwd>
     <ReserveSize>1024</ReserveSize>
     <RecFileSize>60</RecFileSize>
@@ -13,8 +13,8 @@
     <RenderMode>0</RenderMode>
     <VedioRoute>0</VedioRoute>
     <GetUpdateInfo>1</GetUpdateInfo>
-    <Password>qwe123</Password>
-    <RtspPassword>qwe123</RtspPassword>
+    <Password>123</Password>
+    <RtspPassword>123</RtspPassword>
     <SupportRtsp>1</SupportRtsp>
     <AutoConnect>0</AutoConnect>
     <AutoRecord>0</AutoRecord>
@@ -33,7 +33,7 @@
     <SharedDevUpgFlag>0</SharedDevUpgFlag>
     <VersionInfo>1.00.00.48</VersionInfo>
     <UserName>admin</UserName>
-    <UserPhone>18576628172</UserPhone>
+    <UserPhone>0931435998</UserPhone>
     <UserMail></UserMail>
     <WndColDefault>1</WndColDefault>
     <EnLocalNullPwd>1</EnLocalNullPwd>

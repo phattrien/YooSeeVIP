@@ -12,7 +12,7 @@
   <string id ="GW_STRING_MAIN_TOOLBAR_CLOSE">Thoát ra </string>
   <string id ="GW_STRING_MAIN_TOOLBAR_ABOUT">Giới thiệu phiên bản</string>
   <string id ="GW_STRING_ADD_AREA">Thêm khu vực</string>
-  <string id ="GW_STRING_CFG_AREA">Diện tích bất động sản</string>
+  <string id ="GW_STRING_CFG_AREA">Diện tích khu vực</string>
   <string id ="GW_STRING_ADD_DEVICE">Thêm thiết bị</string>
   <string id ="GW_STRING_CFG_DEVICE">Tài sản thiết bị</string>
   <string id ="GW_STRING_DELETE_NODE">Xóa nút</string>
@@ -61,7 +61,7 @@
   <string id ="GW_STRING_WNDTITLE_ADDAREA">Thêm khu vực</string>
   <string id ="GW_STRING_WNDTITLE_MODAREA">Thay đổi khu vực</string>
   <string id ="GW_STRING_ADDAREA_NAME">Tên khu vực</string>
-  <string id ="GW_STRING_ADDAREA_PARENTNAME">Tên phụ huynh</string>
+  <string id ="GW_STRING_ADDAREA_PARENTNAME">Tên chính</string>
   <string id ="GW_STRING_SERVER_WNDTEXT_ADD">Thêm thiết bị</string>
   <string id ="GW_STRING_SERVER_WNDTEXT_PROPERTY">Tài sản thiết bị</string>
   <string id ="GW_STRING_NO_AREANAME">Tên khu vực không thể để trống!</string>
