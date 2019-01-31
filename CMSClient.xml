@@ -5,7 +5,7 @@
     <RtspHeartBeatSocketWaittime>1500</RtspHeartBeatSocketWaittime>
     <MaxShowWnd>49</MaxShowWnd>
     <SaveFilePath>D:\CMS Files\</SaveFilePath>
-    <BackupPath>D:\CMS Files\</BackupPath>
+    <BackupPath>C:\CMS Files\</BackupPath>
     <HasModifiyPwd>0</HasModifiyPwd>
     <ReserveSize>1024</ReserveSize>
     <RecFileSize>60</RecFileSize>
@@ -27,14 +27,14 @@
     <CusCRC>-1198372910</CusCRC>
     <WsID>KqF1GGbg87U=</WsID>
     <WsCRC>1454294126</WsCRC>
-    <Feature>3cd678ddefe7d0bb337fef6dd2583e10</Feature>
+    <Feature>2116d6376aa0e111be9238a63b1db181</Feature>
     <SptNReg>1</SptNReg>
     <Binded>1</Binded>
     <SharedDevUpgFlag>0</SharedDevUpgFlag>
-    <VersionInfo>1.00.00.48</VersionInfo>
+    <VersionInfo>1.00.00.49</VersionInfo>
     <UserName>admin</UserName>
     <UserPhone>0931435998</UserPhone>
-    <UserMail></UserMail>
+    <UserMail>www.WinTech.Vip</UserMail>
     <WndColDefault>1</WndColDefault>
     <EnLocalNullPwd>1</EnLocalNullPwd>
     <DefLocalPwd>00000000</DefLocalPwd>
@@ -60,8 +60,8 @@
     <CountryCode6>+349</CountryCode6>
     <CountryCode7>+48</CountryCode7>
     <CountryCode8>+7</CountryCode8>
-    <LoginType>0</LoginType>
-    <RecvPushMesg>1</RecvPushMesg>
+    <LoginType>2</LoginType>
+    <RecvPushMesg>0</RecvPushMesg>
     <TipsForMesg>0</TipsForMesg>
-    <shareMesgId>405</shareMesgId>
+    <shareMesgId>623</shareMesgId>
 </Config>

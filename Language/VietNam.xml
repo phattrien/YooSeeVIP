@@ -441,7 +441,7 @@
   <string id ="GW_STRING_AUTO_LOGIN">Tự động đăng nhập</string>
   <string id ="GW_STRING_CHECK_FOR_UPDATE">Cập nhật</string>
   <string id ="GW_STRING_TEXT_CHECK_FOR_UPDATE_01">Phiên bản mới có sẵn, tải về bây giờ?</string>
-  <string id ="GW_STRING_TEXT_CHECK_FOR_UPDATE_02">Không có phiên bản mới có sẵn.</string>
+  <string id ="GW_STRING_TEXT_CHECK_FOR_UPDATE_02">Đã là phiên bản mới nhất. www.WinTech.Vip</string>
 
   <string id ="GW_STRING_CLEAR_LIST">Xoá làm lại</string>
   <string id ="GW_STRING_BTN_LOCALCFG_SYSTEM_INFO">Thông tin hệ thống</string>
