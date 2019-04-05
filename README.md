@@ -19,3 +19,6 @@ https://www.YooSee.VIP / http://cameravietnam.org / https://cuahangcamera.com / 
 
 Hướng dẫn nhanh sử dụng phần mềm CMS Camera PC
 http://cameravietnam.org/news/huong-dan/huong-dan-nhanh-su-dung-phan-mem-cms-camera-pc-13.html
+Tài liệu hướng dẫn sử dụng: 
+https://github.com/phattrien/YooSeeVIP/blob/master/Huong-dan-su-dung-phan-mem-CMSClient-PC-Win.pdf
+https://github.com/phattrien/YooSeeVIP/raw/master/Huong-dan-su-dung-phan-mem-CMSClient-PC-Win.pdf
