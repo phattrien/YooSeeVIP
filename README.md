@@ -21,7 +21,5 @@ Hướng dẫn nhanh sử dụng phần mềm CMS Camera PC
 http://cameravietnam.org/news/huong-dan/huong-dan-nhanh-su-dung-phan-mem-cms-camera-pc-13.html
 
 Tài liệu hướng dẫn sử dụng: 
-
 Xem trực tuyến: https://github.com/phattrien/YooSeeVIP/blob/master/Huong-dan-su-dung-phan-mem-CMSClient-PC-Win.pdf
-
 Tải xuống: https://github.com/phattrien/YooSeeVIP/raw/master/Huong-dan-su-dung-phan-mem-CMSClient-PC-Win.pdf
