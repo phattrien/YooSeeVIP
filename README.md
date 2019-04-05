@@ -15,10 +15,13 @@ Camera ip Gviews
 Camera ip Gdxpro
 
 Website hỗ trợ: 
-https://www.YooSee.VIP / http://cameravietnam.org / https://cuahangcamera.com / https://wintech.sanpham.vip
+https://www.YooSee.VIP / http://cameravietnam.org / https://cuahangcamera.com / https://www.wintech.vip / http://CửaHàngCamera.vn
 
 Hướng dẫn nhanh sử dụng phần mềm CMS Camera PC
 http://cameravietnam.org/news/huong-dan/huong-dan-nhanh-su-dung-phan-mem-cms-camera-pc-13.html
+
 Tài liệu hướng dẫn sử dụng: 
-https://github.com/phattrien/YooSeeVIP/blob/master/Huong-dan-su-dung-phan-mem-CMSClient-PC-Win.pdf
-https://github.com/phattrien/YooSeeVIP/raw/master/Huong-dan-su-dung-phan-mem-CMSClient-PC-Win.pdf
+
+Xem trực tuyến: https://github.com/phattrien/YooSeeVIP/blob/master/Huong-dan-su-dung-phan-mem-CMSClient-PC-Win.pdf
+
+Tải xuống: https://github.com/phattrien/YooSeeVIP/raw/master/Huong-dan-su-dung-phan-mem-CMSClient-PC-Win.pdf
