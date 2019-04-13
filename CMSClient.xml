@@ -33,15 +33,15 @@
     <SharedDevUpgFlag>0</SharedDevUpgFlag>
     <VersionInfo>1.00.00.51</VersionInfo>
     <UserName>admin</UserName>
-    <UserPhone></UserPhone>
+    <UserPhone>931435998</UserPhone>
     <UserMail></UserMail>
     <WndColDefault>1</WndColDefault>
     <EnLocalNullPwd>1</EnLocalNullPwd>
     <DefLocalPwd>00000000</DefLocalPwd>
     <LanguageCount>9</LanguageCount>
     <LanguageSelect>0</LanguageSelect>
-    <Language0>VietNam</Language0>
-    <Language1>English</Language1>
+    <Language0>English</Language0>
+    <Language1>VietNam</Language1>
     <Language2>Traditional</Language2>
     <Language3>Korean</Language3>
     <Language4>Thai</Language4>
@@ -51,8 +51,8 @@
     <Language8>Russian</Language8>
     <CountryCodeCont>9</CountryCodeCont>
     <CountryCodeSelect>1</CountryCodeSelect>
-    <CountryCode0>+84</CountryCode0>
-    <CountryCode1>+1</CountryCode1>
+    <CountryCode0>+1</CountryCode0>
+    <CountryCode1>+84</CountryCode1>
     <CountryCode2>+886</CountryCode2>
     <CountryCode3>+82</CountryCode3>
     <CountryCode4>+66</CountryCode4>
