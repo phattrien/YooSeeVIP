@@ -370,7 +370,7 @@
   <string id ="GW_STRING_IPCONFIG_MASK">Mặt nạ mạng con</string>
   <string id ="GW_STRING_IPCONFIG_GATEWAY">Cổng</string>
   <string id ="GW_STRING_IPCONFIG_DNS">DNS</string>
-  <string id ="GW_STRING_BTN_REFRESH">Làm tươi</string>
+  <string id ="GW_STRING_BTN_REFRESH">Làm mới</string>
   <string id ="GW_STRING_BTN_SET">Lưu</string>
   <string id ="GW_STRING_STATUS_REFRESH">Lấy thông số, vui lòng đợi ...</string>
   <string id ="GW_STRING_STATUS_SET">Cài đặt tham số, vui lòng đợi ...</string>
@@ -440,8 +440,8 @@
   <string id ="GW_STRING_KEEP_PASSWORD">Giữ mật khẩu</string>
   <string id ="GW_STRING_AUTO_LOGIN">Tự động đăng nhập</string>
   <string id ="GW_STRING_CHECK_FOR_UPDATE">Cập nhật</string>
-  <string id ="GW_STRING_TEXT_CHECK_FOR_UPDATE_01">Phiên bản mới có sẵn, tải về bây giờ?</string>
-  <string id ="GW_STRING_TEXT_CHECK_FOR_UPDATE_02">Đã là phiên bản mới nhất. www.WinTech.Vip</string>
+  <string id ="GW_STRING_TEXT_CHECK_FOR_UPDATE_01">Phiên bản mới có sẵn, tải về bây giờ ?</string>
+  <string id ="GW_STRING_TEXT_CHECK_FOR_UPDATE_02">Đã là phiên bản mới nhất. YooSee.VIP - WinTech.Vip</string>
 
   <string id ="GW_STRING_CLEAR_LIST">Xoá làm lại</string>
   <string id ="GW_STRING_BTN_LOCALCFG_SYSTEM_INFO">Thông tin hệ thống</string>

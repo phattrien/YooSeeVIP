@@ -5,7 +5,7 @@
     <RtspHeartBeatSocketWaittime>1500</RtspHeartBeatSocketWaittime>
     <MaxShowWnd>49</MaxShowWnd>
     <SaveFilePath>D:\CMS Files\</SaveFilePath>
-    <BackupPath>C:\CMS Files\</BackupPath>
+    <BackupPath>D:\CMS Files\</BackupPath>
     <HasModifiyPwd>0</HasModifiyPwd>
     <ReserveSize>1024</ReserveSize>
     <RecFileSize>60</RecFileSize>
@@ -31,9 +31,9 @@
     <SptNReg>1</SptNReg>
     <Binded>1</Binded>
     <SharedDevUpgFlag>0</SharedDevUpgFlag>
-    <VersionInfo>1.00.00.52</VersionInfo>
+    <VersionInfo>1.00.00.53</VersionInfo>
     <UserName>admin</UserName>
-    <UserPhone></UserPhone>
+    <UserPhone>931435998</UserPhone>
     <UserMail></UserMail>
     <WndColDefault>1</WndColDefault>
     <EnLocalNullPwd>1</EnLocalNullPwd>
@@ -63,5 +63,5 @@
     <LoginType>0</LoginType>
     <RecvPushMesg>1</RecvPushMesg>
     <TipsForMesg>0</TipsForMesg>
-    <shareMesgId>19</shareMesgId>
+    <shareMesgId>28</shareMesgId>
 </Config>
