@@ -1,0 +1,914 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Version 1.0.1 -->
+
+<StringTable>
+
+  <string id ="GW_STRING_APP_TEXT">CMSClient</string>
+
+  <string id ="GW_STRING_MAIN_TOOLBAR_PREVIEW">Überwachen</string>
+
+  <string id ="GW_STRING_MAIN_TOOLBAR_PBLOCAL">Videos abspielen</string>
+
+  <string id ="GW_STRING_MAIN_TOOLBAR_CMSCFG">Einstellungen</string>
+
+  <string id ="GW_STRING_MAIN_TOOLBAR_LOG">Logs</string>
+
+  <string id ="GW_STRING_MAIN_TOOLBAR_LOCK">Sperren</string>
+
+  <string id ="GW_STRING_MAIN_TOOLBAR_UNLOCK">Entsperren</string>
+
+  <string id ="GW_STRING_MAIN_TOOLBAR_MIN">Minimieren</string>
+
+  <string id ="GW_STRING_MAIN_TOOLBAR_MAX">Maximieren</string>
+
+  <string id ="GW_STRING_MAIN_TOOLBAR_CLOSE">Schließen</string>
+
+  <string id ="GW_STRING_MAIN_TOOLBAR_ABOUT">Über CMSClient</string>
+
+  <string id ="GW_STRING_ADD_AREA">Verzeichnis erstellen</string>
+
+  <string id ="GW_STRING_CFG_AREA">Eigenschaft</string>
+
+  <string id ="GW_STRING_ADD_DEVICE">Gerät hinzufügen</string>
+
+  <string id ="GW_STRING_CFG_DEVICE">Eigenschaft</string>
+
+  <string id ="GW_STRING_DELETE_NODE">Löschen</string>
+
+  <string id ="GW_STRING_EXPAND_ALL">Verzeichnis erweitern</string>
+
+  <string id ="GW_STRING_COLLAPSE_ALL">Verzeichnis reduzieren</string>
+
+  <string id ="GW_STRING_ALL_MONITOR01">Alle Geräte verbinden</string>
+
+  <string id ="GW_STRING_ALL_MONITOR02">Alle Geräte trennen</string>
+
+  <string id ="GW_STRING_CODE_STREAM_00">Niedrige Auflösung</string>
+
+  <string id ="GW_STRING_CODE_STREAM_01">Normale Auflösung</string>
+
+  <string id ="GW_STRING_CODE_STREAM_02">Hoche Auflösung</string>
+
+  <string id ="GW_STRING_SERVERINFO_LIST_00">Nr.</string>
+
+  <string id ="GW_STRING_SERVERINFO_LIST_01">Typ</string>
+
+  <string id ="GW_STRING_SERVERINFO_LIST_02">ID</string>
+
+  <string id ="GW_STRING_SERVERINFO_LIST_03">Version</string>
+
+  <string id ="GW_STRING_SERVERINFO_GROUP">Gerät Info.</string>
+
+  <string id ="GW_STRING_SERVERINFO_DEVNAME">Name</string>
+
+  <string id ="GW_STRING_SERVERINFO_PSW">Passwort</string>
+
+  <string id ="GW_STRING_SERVERINFO_AREA">Verzeichnis</string>
+
+  <string id ="GW_STRING_SERVERINFO_P2PID">ID</string>
+
+  <string id ="GW_STRING_SERVER_MONITOR01">Verbinden</string>
+
+  <string id ="GW_STRING_SERVER_MONITOR02">Trennen</string>
+
+  <string id ="GW_STRING_USER_LOGIN">Einloggen</string>
+
+  <string id ="GW_STRING_USER_QUIT">Beenden</string>
+
+  <string id ="GW_STRING_USER_UNLOCK">Entsperren</string>
+
+  <string id ="GW_STRING_LOGIN_NAME">Benutzername</string>
+
+  <string id ="GW_STRING_LOGIN_PSW">Passwort</string>
+
+  <string id ="GW_STRING_LOGIN_OK">OK</string>
+
+  <string id ="GW_STRING_LOGIN_CANCLE">Abbrechen</string>
+
+  <string id ="GW_STRING_LOGIN_QUIT">Abbrechen</string>
+
+  <string id ="GW_STRING_LOGIN_LANUAGE">Sprache</string>
+
+  <string id ="GW_STRING_REGISTER_WNDTEXT_EDITUSER">Benutzer einstellen</string>
+
+  <string id ="GW_STRING_REGISTER_WNDTEXT_ADDUSER">Benutzer hinzufügen</string>
+
+  <string id ="GW_STRING_REGISTER_NAME">Name</string>
+
+  <string id ="GW_STRING_REGISTER_PSW">Passwort</string>
+
+  <string id ="GW_STRING_REGISTER_PSW1">P. bestätigen</string>
+
+  <string id ="GW_STRING_LOGIN_PSW_TIP">(Null)</string>
+
+  <string id ="GW_STRING_LOGIN_CONNECT_TIP">LAN-Modus eingeben</string>
+
+  <string id ="GW_STRING_NETWORK_MODE_INTERNET">Internet-Modus eingeben</string>
+
+  <string id ="GW_STRING_NETWORK_MODE_LAN">LAN-Modus</string>
+
+  <string id ="GW_STRING_TEXT_USERTYPE">Typ</string>
+
+  <string id ="GW_STRING_USERTYPE00">Admin</string>
+
+  <string id ="GW_STRING_USERTYPE01">Normal</string>
+
+  <string id ="GW_STRING_BTN_LIST_DEVICE">Gerät Liste</string>
+
+  <string id ="GW_STRING_WNDTITLE_ADDAREA">Verzeichnis erstellen</string>
+
+  <string id ="GW_STRING_WNDTITLE_MODAREA">Verzeichnis ändern</string>
+
+  <string id ="GW_STRING_ADDAREA_NAME">Verzeichnisname</string>
+
+  <string id ="GW_STRING_ADDAREA_PARENTNAME">Elternverzeichnis</string>
+
+  <string id ="GW_STRING_SERVER_WNDTEXT_ADD">Gerät hinzufügen</string>
+
+  <string id ="GW_STRING_SERVER_WNDTEXT_PROPERTY">Eigenschaften</string>
+
+  <string id ="GW_STRING_NO_AREANAME">Verzeichnisname kann nicht leer sein!</string>
+
+  <string id ="GW_STRING_MENU_CAP">Bildaufnahmen</string>
+
+  <string id ="GW_STRING_MENU_START_REC">Aufnahme starten</string>
+
+  <string id ="GW_STRING_MENU_STOP_REC">Aufnahme beenden</string>
+
+  <string id ="GW_STRING_MENU_STOP_PLAY">Wiedergabe beenden</string>
+
+  <string id ="GW_STRING_MENU_FULLSCREEN_TRUE">Vollbildmodus</string>
+
+  <string id ="GW_STRING_MENU_FULLSCREEN_FALSE">Vollbildmodus beenden</string>
+
+  <string id ="GW_STRING_MENU_LOCALFILE_OPEN">Datei öffnen</string>
+
+  <string id ="GW_STRING_DISK_NO_SPACE_PRE01">Unzureichende Festplattenkapazität, Aufnahme fehlgeschlagen!</string>
+
+  <string id ="GW_STRING_DISK_NO_SPACE_PRE02">Unzureichende Festplattenkapazität, Aufnahme beenden!</string>
+
+  <string id ="GW_STRING_WEEK_DAY01">So.</string>
+
+  <string id ="GW_STRING_WEEK_DAY02">Mo.</string>
+
+  <string id ="GW_STRING_WEEK_DAY03">Di.</string>
+
+  <string id ="GW_STRING_WEEK_DAY04">Mi.</string>
+
+  <string id ="GW_STRING_WEEK_DAY05">Do.</string>
+
+  <string id ="GW_STRING_WEEK_DAY06">Fr.</string>
+
+  <string id ="GW_STRING_WEEK_DAY07">Sa.</string>
+
+  <string id ="GW_STRING_TODAY">Heute</string>
+
+  <string id ="GW_STRING_PREV_YEAR">Letztes Jahr</string>
+
+  <string id ="GW_STRING_PREV_MONTH">Letzten Monat</string>
+
+  <string id ="GW_STRING_NEXT_MONTH">Folgenden Monat</string>
+
+  <string id ="GW_STRING_NEXT_YEAR">Folgendes Jahr</string>
+
+  <string id ="GW_STRING_OPEN_FILE">Datei öffnen</string>
+
+  <string id ="GW_STRING_SAVE_AS">Speichern unter</string>
+
+  <string id ="GW_STRING_PBTOOL_SOUND">Ton ein/aus</string>
+
+  <string id ="GW_STRING_PBTOOL_PLAY">Abspielen</string>
+
+  <string id ="GW_STRING_PBTOOL_PAUSE">Unterbrechen</string>
+
+  <string id ="GW_STRING_PBTOOL_STOP">Beenden</string>
+
+  <string id ="GW_STRING_PBTOOL_CAPTURE">Aufnehmen</string>
+
+  <string id ="GW_STRING_PBTOOL_FULLSCREEN">Vollbildmodus</string>  
+
+  <string id ="GW_STRING_PBTOOL_SEARCH">Suchen</string>
+
+  <string id ="GW_STRING_LAB_RECORDTYPE">Videodateityp</string>
+
+  <string id ="GW_STRING_RECORDTYPE_LOCAL">lokale</string>
+
+  <string id ="GW_STRING_RECORDTYPE_REMOTE">entfernte</string>
+
+  <string id ="GW_STRING_RECORDTYPE_DOWNLOAD">heruntergeladene</string>
+
+  <string id ="GW_STRING_MENU_DOWNLOAD_START">Herunterladen starten</string>
+
+  <string id ="GW_STRING_MENU_DOWNLOAD_STOP">Herunterladen beenden</string>
+
+  <string id ="GW_STRING_MENU_DOWNLOAD_WAIT">Warten auf das Herunterladen</string>
+
+  <string id ="GW_STRING_DLGINFO_MESSAGE">Nichricht</string>
+
+  <string id ="GW_STRING_BATCH_DOWNLOAD_SELECT_ALL">Alle auswählen</string>
+
+  <string id ="GW_STRING_BATCH_DOWNLOAD_SELECT_ALL_CANCEL">Abwählen</string>
+
+  <string id ="GW_STRING_BATCH_DOWNLOAD_START">Herunterladen</string>
+
+  <string id ="GW_STRING_BATCH_DOWNLOAD_CANCEL">Abbrechen</string>
+
+  <string id ="GW_STRING_BATCH_DOWNLOAD_TIP">Wird heruntergeladen...</string>
+
+  <string id ="GW_STRING_DLGINFO_CAPTURE">Bildaufnahmen</string> 
+
+  <string id ="GW_STRING_DLGINFO_RECORD">Video aufnahmen</string>
+
+  <string id ="GW_STRING_STATIC_DEVICE">Gerät</string>
+
+  <string id ="GW_STRING_FILELIST_TITLE00">Nr.</string>
+
+  <string id ="GW_STRING_FILELIST_TITLE01">Kanal</string>
+
+  <string id ="GW_STRING_FILELIST_TITLE02">Name</string>
+
+  <string id ="GW_STRING_FILELIST_TITLE03">Größe(MB)</string>
+
+  <string id ="GW_STRING_OPERATE_PREVIEW_OPEN">Überwachung starten</string>
+
+  <string id ="GW_STRING_OPERATE_PREVIEW_CLOSE">Überwachung beenden</string>
+
+  <string id ="GW_STRING_OPERATE_CAP">Bildaufnahmen</string>
+
+  <string id ="GW_STRING_OPERATE_REC_START">Videoaufnahme starten</string>
+
+  <string id ="GW_STRING_OPERATE_REC_OVER">Videoaufnahme beenden</string>
+
+  <string id ="GW_STRING_OPERATE_TALK_START">Gegensprechen starten</string>
+
+  <string id ="GW_STRING_OPERATE_TALK_STOP">Gegensprechen beenden</string>
+
+  <string id ="GW_STRING_OPERATE_REMOTEPLAY_OPEN">Abspielen</string>
+
+  <string id ="GW_STRING_OPERATE_REMOTEPLAY_CLOSE">Abspielen benenden</string>
+
+  <string id ="GW_STRING_OPERATE_PREVIEW_ERROR_01">Verbindung fehlgeschlagen</string>
+
+  <string id ="GW_STRING_OPERATE_PREVIEW_ERROR_02">Authentifizierung fehlgeschlagen</string>
+
+  <string id ="GW_STRING_OPERATE_PREVIEW_ERROR_03">Netzverbingung unterbrochen</string>
+
+  <string id ="GW_STRING_OPERATE_PREVIEW_ERROR_04">Netzverbingung unterbrochen, verbinden mit dem Gerät ...</string>
+
+  <string id ="GW_STRING_OPERATE_PREVIEW_ERROR_05">Verbindung unterbrochen</string>
+
+  <string id ="GW_STRING_BTNTIP_PREVIEW_RECORD_START">Aufnahmen starten</string>
+
+  <string id ="GW_STRING_BTNTIP_PREVIEW_RECORD_STOP">Aufnahmen beenden</string>
+
+  <string id ="GW_STRING_BTNTIP_PREVIEW_TALK_START">Gegensprechen Starten</string>
+
+  <string id ="GW_STRING_BTNTIP_PREVIEW_TALK_STOP">Gegensprechen beenden</string>
+
+  <string id ="GW_STRING_BTNTIP_PREVIEW_CAPTURE">Foto aufnahmen</string>
+
+  <string id ="GW_STRING_BTNTIP_PREVIEW_ALARMLOG">Alarm-Log</string>
+
+  <string id ="GW_STRING_BTNTIP_PREVIEW_STOPPLAY">überwachung beenden</string>
+
+  <string id ="GW_STRING_BTNTIP_PREVIEW_SOUND">Ton ein/aus</string>
+
+  <string id ="GW_STRING_BTNTIP_PREVIEW_PTZ">PTZ Ansicht</string>
+
+  <string id ="GW_STRING_BTNTIP_PREVIEW_PREPAGE">Vorherige Seite</string>
+
+  <string id ="GW_STRING_BTNTIP_PREVIEW_NEXTPAGE">Folgende Seite</string>
+
+  <string id ="GW_STRING_BTNTIP_PREVIEW_FULLSCREEN">Vollbildmodus</string>
+
+  <string id ="GW_STRING_BTNTIP_PREVIEW_WNDSTYLE_01">1 Fenster</string>
+
+  <string id ="GW_STRING_BTNTIP_PREVIEW_WNDSTYLE_04">4 Fenster</string>
+
+  <string id ="GW_STRING_BTNTIP_PREVIEW_WNDSTYLE_06">6 Fenster</string>
+
+  <string id ="GW_STRING_BTNTIP_PREVIEW_WNDSTYLE_07">7 Fenster</string>
+
+  <string id ="GW_STRING_BTNTIP_PREVIEW_WNDSTYLE_08">8 Fenster</string>
+
+  <string id ="GW_STRING_BTNTIP_PREVIEW_WNDSTYLE_09">9 Fenster</string>
+
+  <string id ="GW_STRING_BTNTIP_PREVIEW_WNDSTYLE_13">13 Fenster</string>
+
+  <string id ="GW_STRING_BTNTIP_PREVIEW_WNDSTYLE_16">16 Fenster</string>  
+
+  <string id ="GW_STRING_BTNTIP_PREVIEW_WNDSTYLE_20">20 Fenster</string>
+
+  <string id ="GW_STRING_BTNTIP_PREVIEW_WNDSTYLE_25">25 Fenster</string>
+
+  <string id ="GW_STRING_BTNTIP_PREVIEW_WNDSTYLE_36">36 Fenster</string>
+
+  <string id ="GW_STRING_BTNTIP_PREVIEW_WNDSTYLE_49">49 Fenster</string>
+
+  <string id ="GW_STRING_BTNTIP_PREVIEW_WNDSTYLE_64">64 Fenster</string>
+
+  <string id ="GW_STRING_BTNTIP_PREVIEW_WNDSTYLE_SELETE">Fenster auswählen</string>
+
+  <string id ="GW_STRING_OPEN">Ja</string>
+
+  <string id ="GW_STRING_CLOSE">Nein</string>
+
+  <string id ="GW_STRING_OK">OK</string>
+
+  <string id ="GW_STRING_CANCEL">Abbrechen</string>
+
+  <string id ="GW_STRING_SAVE">Speichern</string>
+
+  <string id ="GW_STRING_TEXT_CMS_ERROR01,">Benutzername kann nicht leer sein.</string>
+
+  <string id ="GW_STRING_TEXT_CMS_ERROR02,">Benutzername ist schon vergeben.</string> 
+
+  <string id ="GW_STRING_TEXT_CMS_ERROR03,">Passwort kann nicht leer sein.</string>
+
+  <string id ="GW_STRING_TEXT_CMS_ERROR04,">Die eingegeben Passwörter stimmt nicht überein.  Bitte Passwort erneut eingeben.</string>
+
+  <string id ="GW_STRING_TEXT_CMS_ERROR05,">Das eingegebene Passwort enthält unzulössige Zeichen.</string>
+
+  <string id ="GW_STRING_TEXT_CMS_ERROR08">Bitte alle Geräte im Ordner abmelden.</string>
+
+  <string id ="GW_STRING_TEXT_CMS_ERROR09">Das Verzeichnis löschen?</string>
+
+  <string id ="GW_STRING_TEXT_CMS_ERROR10">Authentifizierung fehlgeschlagen.</string>
+
+  <string id ="GW_STRING_TEXT_CMS_ERROR11">Das Gerät löschen?</string>
+
+  <string id ="GW_STRING_TEXT_CMS_ERROR12">Authentifizierung fehlgeschlagen.</string>
+
+  <string id ="GW_STRING_TEXT_CMS_ERROR13">Gerätname kann nicht leer sein!</string>
+
+  <string id ="GW_STRING_TEXT_CMS_ERROR14">IP-Adresse ist ungültig!</string>
+
+  <string id ="GW_STRING_TEXT_CMS_ERROR15">Gerätname ist ungültig!</string>
+
+  <string id ="GW_STRING_TEXT_CMS_ERROR21">ID kann nicht leer sein!</string>
+
+  <string id ="GW_STRING_TEXT_CMS_ERROR22">ID ist bereits vorhanden!</string>
+
+  <string id ="GW_STRING_TEXT_CMS_ERROR23">ID ist ungültig!</string>
+
+  <string id ="GW_STRING_TEXT_LOCALCFG_BASE_TITLE">CMS Einstellungen</string>
+
+  <string id ="GW_STRING_BTN_LOCALCFG_PATH">Parameter</string>
+
+  <string id ="GW_STRING_BTN_LOCALCFG_USER">Benutzer</string>
+
+  <string id ="GW_STRING_BTN_LOCALCFG_ALARM">Alarm-Auslöer</string>
+
+  <string id ="GW_STRING_BTN_LOCALCFG_LOG">Log</string>
+
+  <string id ="GW_STRING_LAB_LOCALPARAM_PARAM_PATH">Datei speichern unter</string>
+
+  <string id ="GW_STRING_LAB_LOCALPARAM_PARAM_HOLD">Reservierter speicherplatz</string>
+
+  <string id ="GW_STRING_LAB_LOCALPARAM_PARAM_FILESIZE">Record time for package</string>
+
+  <string id ="GW_STRING_BTN_LOCALPARAM_PARAM_BROWER">Durchsuchen</string>
+
+  <string id ="GW_STRING_BTN_LOCALPARAM_PARAM_SAVE">Speichern</string>
+
+  <string id ="GW_STRING_BTN_LOCALPARAM_PARAM_LISTEN">Audition</string>
+
+  <string id ="GW_STRING_TEXT_LOCALPARAM_PARAM_SAVE_SUCCESS">Parameter erfolgreich gespeichert! CMS-Enstellungen verlassen?</string>
+
+  <string id ="GW_STRING_BTN_LOCALPARAM_USER_ADD">Hinzufügen</string>
+
+  <string id ="GW_STRING_BTN_LOCALPARAM_USER_DEL">Löschen</string>
+
+  <string id ="GW_STRING_LIST_LOCALPARAM_USER_TITLE00">Nr.</string>
+
+  <string id ="GW_STRING_LIST_LOCALPARAM_USER_TITLE01">Benutzername</string>
+
+  <string id ="GW_STRING_LIST_LOCALPARAM_USER_TITLE02">Benutzertyp</string>
+
+  <string id ="GW_STRING_TEXT_LOCALPARAM_USER_DELETE">Benutzer löschen?</string>
+
+  <string id ="GW_STRING_TEXT_LOCALPARAM_USER_NODEL">Benutzer kann nicht gelöscht werden.</string>
+
+  <string id ="GW_STRING_TEXT_LOCALPARAM_USER_NODELADMIN">Admin kann nicht gelöscht werden.</string>
+
+  <string id ="GW_STRING_LAB_LOCALPARAM_ALARM_VIDEO">Alarm Videos</string>
+
+  <string id ="GW_STRING_LAB_LOCALPARAM_ALARM_BUZZER">Alarm Summer</string>
+
+  <string id ="GW_STRING_WNDTITLE_PLAYBACK_LOCAL">Abspielen</string>  
+
+  <string id ="GW_STRING_PLAY_FAILED09">Bitte uur eine Datei ...</string>
+
+  <string id ="GW_STRING_INSTANCE_RUN">Gleichzeitig kann nur eine Instanz läufen.</string>
+
+  <string id ="GW_STRING_CREATE_DATABASE_FAILED">Datenbankerstellung fehlgeschlagen</string>
+
+  <string id ="GW_STRING_NAME_ERROR_SINGLEQUOTES">Kein Hochkomma erhälten kann.</string>
+
+  <string id ="GW_STRING_COMBO_LOCALPARAM_PARAM_LOGTYPE_ALARM">Alarm Log</string>
+
+  <string id ="GW_STRING_COMBO_LOCALPARAM_PARAM_LOGTYPE_OPERATING">Betriebslog</string>
+
+  <string id ="GW_STRING_LAB_LOCALPARAM_PARAM_LOG">Log</string>
+
+  <string id ="GW_STRING_LAB_LOCALPARAM_PARAM_LOGTYPE">Logtyp</string>
+
+  <string id ="GW_STRING_LAB_ABOUT_NAME">Name</string>
+
+  <string id ="GW_STRING_LAB_ABOUT_VERSION">Version:</string>
+
+  <string id ="GW_STRING_WARNING_RECORD_01">Das Gerät zeichnet gerade auf, trotzdem fortfahren?</string>
+
+  <string id ="GW_STRING_WARNING_RECORD_02">Das Gerät zeichnet gerade auf, trotzdem fortfahren?</string>
+
+  <string id ="GW_STRING_WARNING_RECORD_03">Ein Gerät zeichnet gerade auf, trotzdem fortfahren?</string>  
+
+  <string id ="GW_STRING_AUTO_RECORD">Aufnahme automatisch starten</string>
+
+  <string id ="GW_STRING_CYCLE_RECORD">Aufzeichnungskreislauf</string>
+
+  <string id ="GW_STRING_ALL_START_RECORD">Alle aufnahmen</string>
+
+  <string id ="GW_STRING_ALL_STOP_RECORD">Alle Aufnahmen beenden</string>
+
+  <string id ="GW_STRING_ALL_CAPTURE">Aufnahme aller Geräte machen</string>
+
+  <string id ="GW_STRING_ALL_CODESTREAM_00">Niedrige Auflösung</string>
+
+  <string id ="GW_STRING_ALL_CODESTREAM_01">Normale Auflösung</string>
+
+  <string id ="GW_STRING_ALL_CODESTREAM_02">Hohe Auflösung</string>
+
+  <string id ="GW_STRING_CONNECTING">verbindet ...</string>
+
+  <string id ="GW_STRING_CONNECTING00">Verbinden ...</string>
+
+  <string id ="GW_STRING_WND_CONNECTING">Das Fenster ist besetzt, bitte ein anderes Fenster verwanden.</string>
+
+  <string id ="GW_STRING_FOUNDDEVICE_TITLE">Neue Geräte wurden gefunden, Anzahl:</string>
+
+  <string id ="GW_STRING_FOUNDDEVICE_PWD">Passwort</string>
+
+  <string id ="GW_STRING_FOUNDDEVICE_OK">Alle hinzufügen</string> 
+
+  <string id ="GW_STRING_FOUNDDEVICE_CANCEL">Übergehen</string>
+
+  <string id ="GW_STRING_AUTO_CONNECT">Alle Geräte automatisch verbinden</string>
+
+  <string id ="GW_STRING_P2P_FAILED">Netzwerk-Initialisierung fehlgeschlagen</string>
+
+  <string id ="GW_STRING_TIP_ERROR">Fehler</string>
+
+  <string id ="GW_STRING_TIP_WARNING">Warnhinweis</string>
+
+  <string id ="GW_STRING_WARNING_TALKING">Die Gegensprechanlage wird genutzt, möchten Sie trotzdem fortfahren?</string>
+
+  <string id ="GW_STRING_TALKING_ERROR01">Gegensprechanlage konnte nicht gestartet werden.</string>
+
+  <string id ="GW_STRING_TALKING_ERROR02">Gegensprechanlage konnte nicht gestartet werden. ist das Eingabegerät angeschlossen?</string>
+
+  <string id ="GW_STRING_MENU_STOPCONNECT">Verbinden unterbrechen</string>
+
+  <string id ="GW_STRING_TIP_P2PERROR">P2P noch nicht itialisiert wurde, bitte später erneut versuchen.</string>
+
+  <string id ="GW_STRING_LAB_MAINLOG_USERID">Benutzer-ID</string>
+
+  <string id ="GW_STRING_LAB_MAINLOG_TYPE">Log-Typ</string>
+
+  <string id ="GW_STRING_LAB_MAINLOG_DEVICENAME">Gerätename</string>
+
+  <string id ="GW_STRING_LAB_MAINLOG_BEGIN">Anfangszeit</string>
+
+  <string id ="GW_STRING_LAB_MAINLOG_END">Endzeit</string>
+
+  <string id ="GW_STRING_BTN_MAINLOG_SEARCH">Suchen</string>
+
+  <string id ="GW_STRING_BTN_MAINLOG_BACKUP">Backup</string>
+
+  <string id ="GW_STRING_TEXT_MAINLOG_TYPE0">Alarm Log</string>
+
+  <string id ="GW_STRING_TEXT_MAINLOG_TYPE1">Betriebslog</string>
+
+  <string id ="GW_STRING_TEXT_MAINLOG_LIST0">Verzeichnis</string>
+
+  <string id ="GW_STRING_TEXT_MAINLOG_LIST1">Zeit</string>
+
+  <string id ="GW_STRING_TEXT_MAINLOG_LIST2">Gerätename</string>
+
+  <string id ="GW_STRING_TEXT_MAINLOG_LIST3">Gerät-ID</string>  
+
+  <string id ="GW_STRING_TEXT_MAINLOG_LIST4">Information</string>
+
+  <string id ="GW_STRING_TEXT_MAINLOG_ALLDEVICE">Alle Geräte</string>
+
+  <string id ="GW_STRING_LOGIN_ERROR01">Der Vorgang fehlgeschlagen</string>
+
+  <string id ="GW_STRING_LOGIN_ERROR02">Authentifizierung fehlgeschlagen.</string>
+
+  <string id ="GW_STRING_LOGIN_ERROR03">Authentifizierung fehlgeschlagen.</string>
+
+  <string id ="GW_STRING_LOGIN_ERROR04">Email-Adresse ist ungültige.</string>
+
+  <string id ="GW_STRING_LOGIN_ERROR05">Ist schon eingeloggt.</string>
+
+  <string id ="GW_STRING_LOGIN_ERROR06">Die Rufnummer ist besetzt.</string>
+
+  <string id ="GW_STRING_LOGIN_ERROR07">Email ist bereits registriert.</string>
+
+  <string id ="GW_STRING_LOGIN_ERROR08">Passwort-Format-Fehler</string>
+
+  <string id ="GW_STRING_LOGIN_ERROR09">Telefonnummer-Format-Fehler</string>
+
+  <string id ="GW_STRING_LOGIN_ERROR10">Die eingegeben Passwörter stimmt nicht überein</string>
+
+  <string id ="GW_STRING_LOGIN_ERROR11">Authentifizierung fehlgeschlagen</string>
+
+  <string id ="GW_STRING_LOGIN_ERROR12">Altes Passwort Format-Fehler</string> 
+
+  <string id ="GW_STRING_LOGIN_ERROR13">Keine Datensätze vorhanden</string>
+
+  <string id ="GW_STRING_LOGIN_ERROR14">Parameterfehler</string>
+
+  <string id ="GW_STRING_LOGIN_ERROR15">Bereits als Fruend hinzugefügt wurde.  Kann nicht noch mal als Freund hinzugefügt werden</string>
+
+  <string id ="GW_STRING_LOGIN_ERROR16">Warten auf die Bestätigung des Freunds</string>
+
+  <string id ="GW_STRING_LOGIN_ERROR17">Die Freundschaftseinladung wurde abgelehnt.</string>
+
+  <string id ="GW_STRING_LOGIN_ERROR18">Telefon-Prüfungs-Code ist falsch</string>
+
+  <string id ="GW_STRING_LOGIN_ERROR19">Bitte geben Sie zuerst die Landesvorwahl dann die Telefonnummer ein.</string>
+
+  <string id ="GW_STRING_LOGIN_ERROR20">Bitte die E-Mail adresse eingeben</string>
+
+  <string id ="GW_STRING_LOGIN_ERROR21">Telefon-Prüfungs-Code ist abgelaufen</string>
+
+  <string id ="GW_STRING_LOGIN_ERROR22">Benutzer-ID ist nicht vorhanden</string>
+
+  <string id ="GW_STRING_LOGIN_ERROR23">Session-ID ist falsch</string>
+
+  <string id ="GW_STRING_LOGIN_ERROR24">Kontostatus ist nicht verfügbar</string>
+
+  <string id ="GW_STRING_LOGIN_ERROR25">Telefon-Prüfungs-Code Fehler</string>
+
+  <string id ="GW_STRING_LOGIN_ERROR26">Eingeschränkter Zugang</string>
+
+  <string id ="GW_STRING_LOGIN_ERROR27">Telefon-Prüfungs-Code wurde zu oft beantragt.</string>
+
+  <string id ="GW_STRING_LOGIN_ERROR28">Die Gesamtzahl der Anfragen der Telefon-Prüfungs-Codes hat das Maximum erreicht.</string>
+
+  <string id ="GW_STRING_LOGIN_ERROR29">Das Server unterstützt den Service nicht.</string>
+
+  <string id ="GW_STRING_LOGIN_ERROR30">Die eingehenden Medienparameter bestehen aus unzulässige Zeichen</string>
+
+  <string id ="GW_STRING_LOGIN_ERROR31">Systemkonfiguration-Fehler</string>
+
+  <string id ="GW_STRING_LOGIN_ERROR32">Die Sendung des Prüfungs-Codes ist fehlgeschlagen</string>
+
+  <string id ="GW_STRING_LOGIN_ERROR33">Der Link der Kennwortzurücksetzung ist unterbrochen</string>
+
+  <string id ="GW_STRING_LOGIN_ERROR34">Die Sendung des Telefon-Prüfungs-Codes ist fehlgeschlagen</string>
+
+  <string id ="GW_STRING_LOGIN_ERROR35">Unzureichende Berechtigungen </string>
+
+  <string id ="GW_STRING_LOGIN_ERROR36">Admin-Konto ist nicht vorhanden</string>
+
+  <string id ="GW_STRING_LOGIN_ERROR37">Admin-Konto ist schon vorhanden</string>
+
+  <string id ="GW_STRING_LOGIN_ERROR38">Der Administrator kann sein eigenes Konto sperren oder löschen</string>
+
+  <string id ="GW_STRING_LOGIN_ERROR39">Bitte die Anfrage erneut einreichen nach der aktualisierten Domain-Namen-Liste</string>
+
+  <string id ="GW_STRING_LOGIN_ERROR40">Die Aufzeichnung ist vorhanden</string>
+
+  <string id ="GW_STRING_LOGIN_ERROR41">Die Gesamtzahl der Anfragen hat das Maximum erreicht.</string>
+
+  <string id ="GW_STRING_LOGIN_ERROR42">Entschlüsselung ist fehlgeschlagen</string>
+
+  <string id ="GW_STRING_LOGIN_ERROR43">Das Gerät ist schon verbunden</string>
+
+  <string id ="GW_STRING_LOGIN_ERROR44">Das Konto ist nicht für die Nutzungsart</string>
+
+  <string id ="GW_STRING_LOGIN_ERROR45">Gerät-ID ist nicht vorhanden</string>
+
+  <string id ="GW_STRING_LOGIN_ERROR46">R1R2 ist unrichtig</string>
+
+  <string id ="GW_STRING_LOGIN_ERROR47">Automatische Zuordneung des Kontos ist fehlgeschlagen</string>  
+
+  <string id ="GW_STRING_LOGIN_ERROR48">Die Gesamtzahl der verbundene Nummern haben das Maximum erreicht.</string>
+
+  <string id ="GW_STRING_LOGIN_ERROR49">-</string>
+
+  <string id ="GW_STRING_LOGIN_ERROR50">Authentifizierung fehlgeschlagen</string>
+
+  <string id ="GW_STRING_LOGIN_ERROR51">Nicht vorhanden</string>
+
+  <string id ="GW_STRING_LOGIN_ERROR52">Gruppe ist nicht vorhanden</string>
+
+  <string id ="GW_STRING_LOGIN_ERROR53">Gruppe ist nicht vorhanden, bitte die Gruppe erstellen</string> 
+
+  <string id ="GW_STRING_LOGIN_ERROR54">Der Benutzer ist bereits vorhanden in der Gruppe,  bitte den Benutzer aus der Gruppe entfernen</string>
+
+  <string id ="GW_STRING_LOGIN_ERROR55">Das Gerät ist bereits vorhanden in der Gruppe, bitte das Gerät aus der Gruppe entfernen</string>
+
+  <string id ="GW_STRING_LOGIN_ERROR56">Die Gruppe hat Untergruppen, bitte zuerst die Untergruppen löschen und danach die Operation erneut durchführen.</string>
+
+  <string id ="GW_STRING_LOGIN_ERROR57">Sie können sich selbst nicht lösen</string>
+
+  <string id ="GW_STRING_LOGIN_ERROR58">Reserved accounts, can not tamper</string>
+
+  <string id ="GW_STRING_LOGIN_ERROR59">Already exists on the device whitelist binding by modifying</string>
+
+  <string id ="GW_STRING_LOGIN_ERROR60">Keine Datei ist ausgewählt</string>
+
+  <string id ="GW_STRING_LOGIN_ERROR61">Upload file format illegal</string>
+
+  <string id ="GW_STRING_LOGIN_ERROR62">Der Datensatz ist noch nicht vorhanden</string>
+
+  <string id ="GW_STRING_LOGIN_ERROR63">Recommended contents have reached the limit, delete part of the record after the operation</string>
+
+  <string id ="GW_STRING_LOGIN_ERROR64">Mail-ID ist schon vorhanden.</string>
+
+  <string id ="GW_STRING_LOGIN_ERROR70">Request submitted only partially successful execution</string>
+
+  <string id ="GW_STRING_LOGIN_ERROR90">Synchronization failed with the center</string>
+
+  <string id ="GW_STRING_LOGIN_ERROR100">Registration is limited</string>
+
+  <string id ="GW_STRING_LOGIN_ERROR404">The service request does not exist</string>
+
+  <string id ="GW_STRING_LOGIN_ERROR500">Interner Systemfehler</string>
+
+  <string id ="GW_STRING_LOGIN_ERROR998">Internal program exceptions</string>
+
+  <string id ="GW_STRING_LOGIN_ERROR999">Unbekannter Fehler</string>
+
+  <string id ="GW_STRING_LOGIN_ERROR100100">Der Server wurde nicht gefunden</string>
+
+  <string id ="GW_STRING_ALRAM_TIP00">Bereits erhalten</string>
+
+  <string id ="GW_STRING_ALRAM_TIP01">Video wird geöffnet ...</string>
+
+  <string id ="GW_STRING_SESSION_EXPIRED">Session abgelaufen, Session wird abgeschlossen</string>
+
+  <string id ="GW_STRING_ALRAM_EXT">Externes Alarm</string>
+
+  <string id ="GW_STRING_ALRAM_MOTION">Bewegungserkennung-Alarm</string>
+
+  <string id ="GW_STRING_ALRAM_FORCE">Notfall-Alarm</string>
+
+  <string id ="GW_STRING_ALRAM_DEBUG">Fehlerbehebung-Alarm</string>
+
+  <string id ="GW_STRING_ALRAM_EXT_LINE">I/O-Alarm</string>
+
+  <string id ="GW_STRING_ALRAM_LOW_VOL">Niederspannung-Alarm</string>
+
+  <string id ="GW_STRING_ALRAM_PIR">PIR Bewegungserkennung-Alarm</string>
+
+  <string id ="GW_STRING_ALRAM_DEF_ENABLE">Alarmaktivierung-Alarm</string>
+
+  <string id ="GW_STRING_ALRAM_DEF_DISABLE">Alarmdeaktivierung-Alarm</string>
+
+  <string id ="GW_STRING_ALRAM_BATTERY_LOW_VOL">Niederes Batteriespannung-Alarm</string>
+
+  <string id ="GW_STRING_ALRAM_UPDATE_TO_SER">Parameter-Hochladung-Server</string>
+
+  <string id ="GW_STRING_ALRAM_TH">Temperature-/Feuchtigkeit-Alarm</string>
+
+  <string id ="GW_STRING_ALRAM_DOORBELL_PUSH">Doorbell anklingeln</string>
+
+  <string id ="GW_STRING_ALRAM_FORCE_FROM_KEYPRESS">Tasten drücken</string>
+
+  <string id ="GW_STRING_ALRAM_REC_FAIL">Aufzeichnung ist fehlgeschlagen</string>
+
+  <string id ="GW_STRING_ALRAM_SOUND">Summer</string>
+
+  <string id ="GW_STRING_ALRAM_UNKNOW">Unbekanntes Alarm</string>
+
+  <string id ="GW_STRING_CONNECT_CHECK_PREVIEW">Videovorschau ist gestartet. trotzdem das Gerät stoppen und fortsetzen?</string>
+
+  <string id ="GW_STRING_CONNECT_CHECK_REMOTE">Ein Video wird momentan wiedergegeben. trotzdem das Gerät stoppen und fortsetzen?</string>
+
+  <string id ="GW_STRING_CONNECT_CHECK_DWONLOAD">Ein Video wird momentan heruntergeladen. trotzdem das Gerät stoppen und fortsetzen?</string>
+
+  <string id ="GW_STRING_ACK_ERROR01">Authentifizierung fehlgeschlagen</string>
+
+  <string id ="GW_STRING_ACK_ERROR02">Zeitüberschreitung der Netzwerkverbindung</string>
+
+  <string id ="GW_STRING_ACK_ERROR03">Push-Nachricht ist fehlgeschlagen</string>
+
+  <string id ="GW_STRING_ACK_ERROR04">Unzureichende Berechtigungen</string>
+
+  <string id ="GW_STRING_ACK_ERROR05">Zusenden ist fehlgeschlagen</string>
+
+  <string id ="GW_STRING_TIP_NORECORD">Keine entfernte Dateien erhielt</string>
+
+  <string id ="GW_STRING_CRC_ERROR">Die Konfigurationsdatei ist beschädigt, bitte CMS erneut installieren</string>
+
+  <string id ="GW_STRING_IPCONFIG">Netzwerk</string>
+
+  <string id ="GW_STRING_IPCONFIG_NETTYPE_TEXT">Verbindungsart</string>
+
+  <string id ="GW_STRING_IPCONFIG_NETTYPE00">Kabelverbindung</string>
+
+  <string id ="GW_STRING_IPCONFIG_NETTYPE01">WLAN</string>
+
+  <string id ="GW_STRING_IPCONFIG_NETAUTO">IP-Adresse automatisch beziehen</string>
+
+  <string id ="GW_STRING_IPCONFIG_NETMANUAL">Die folgende IP-Adressen nutzen</string>
+
+  <string id ="GW_STRING_IPCONFIG_IP">IP-Adressen</string>
+
+  <string id ="GW_STRING_IPCONFIG_MASK">Subnetzmaske</string>
+
+  <string id ="GW_STRING_IPCONFIG_GATEWAY">Gateway</string>
+
+  <string id ="GW_STRING_IPCONFIG_DNS">DNS</string>
+
+  <string id ="GW_STRING_BTN_REFRESH">Aktualisieren</string>
+
+  <string id ="GW_STRING_BTN_SET">Festlegen</string>
+
+  <string id ="GW_STRING_STATUS_REFRESH">Parameter werden abgerufen, bitte warten...</string>
+
+  <string id ="GW_STRING_STATUS_SET">Parameter werden eingestellt, bitte warten...</string>
+
+  <string id ="GW_STRING_GET_PARAM_OK">Parameter wurden erforderlich abgerufen.</string>
+
+  <string id ="GW_STRING_GET_PARAM_FAILED">Der Abruf von Parametern ist fehlgeschlagen</string>
+
+  <string id ="GW_STRING_SET_PARAM_OK">Parameter wurden erforderlich eingestellt</string>
+
+  <string id ="GW_STRING_SET_PARAM_FAILED">Die Einstellung von Parametern ist fehlgeschlagen</string>
+
+  <string id ="GW_STRING_ERROR_INVALID_PARAM">Parametrierungsfehler</string>
+
+  <string id ="GW_STRING_ERROR_IP_CONFLICT">Die IP-Adresse ist von einem anderen Gerät belegt(IP-Adresskonflikt)</string>
+
+  <string id ="GW_STRING_ERROR_DEVICE_STATUS">Das Gerät wird gerade überwacht oder es zeichnt gerade auf.</string>
+
+  <string id ="GW_STRING_ERROR_UNKNOWN">Unbekannter Fehler</string>
+
+  <string id ="GW_STRING_ERROR_NOTSUPPORT">Das Gerät unterstützt diese Einstellung nicht</string>
+
+  <string id ="GW_STRING_ERROR_INVALID_IP">Ungültige IP-Adresse</string>
+
+  <string id ="GW_STRING_ERROR_INVALID_MASK">Ungültige Subnetzmaske</string>
+
+  <string id ="GW_STRING_ERROR_INVALID_GATEWAY">Ungültiges gateway</string>
+
+  <string id ="GW_STRING_ERROR_INVALID_DNS">Ungultiges DNS (Domain Name System)</string>
+
+  <string id ="GW_STRING_ERROR_INVALID_IPGATEWAY">IP addres gateway shouls andd be on the same network segment.</string>
+
+  <string id ="GW_STRING_ERROR_NOTCHANGE">Parameter wurden nicht geändert</string>
+
+  <string id ="GW_STRING_REMOTE_CONFIG">Einstellungen</string>
+
+  <string id ="GW_STRING_RECORDCONFIG">Aufnahme</string>
+
+  <string id ="GW_STRING_RECORDCONFIG_TEXT">Kodierungsart</string>
+
+  <string id ="GW_STRING_RECORDCONFIG_VGA">Regulär</string>
+
+  <string id ="GW_STRING_RECORDCONFIG_720P">HD</string>
+
+  <string id ="GW_STRING_MONITOR_AUTHORITYCONFIG">Bildschirmberechtigungen</string>
+
+  <string id ="GW_STRING_MONITOR_AUTHORITYCONFIG_YES">Bildschirmberechtigungen ist erforderlich</string>
+
+  <string id ="GW_STRING_MONITOR_AUTHORITYCONFIG_NO">Bildschirmberechtigungen ist nicht erforderlich</string>
+
+  <string id ="GW_STRING_START_CONVERT_MP4">Ins MP4-Videoformat umwandln</string>
+
+  <string id ="GW_STRING_STOP_CONVERT_MP4">Abbrechen</string>
+
+  <string id ="GW_STRING_TEXT_DEVICE_MANAGER">Geräteinstellungen</string>
+
+  <string id ="GW_STRING_TEXT_DEVICES_SEARCHED">Geräte, die sich im gleichen LAN befinden</string>
+
+  <string id ="GW_STRING_TEXT_DEVICES_ADDED">Hinzugefügte Geräte</string>
+
+  <string id ="GW_STRING_TEXT_BTN_MANUAL_ADD">Manuell hinzufügen</string>
+
+  <string id ="GW_STRING_TEXT_DELETE_DEVICE_ERROR_TIP">Das Gerät kann nicht gelöscht wird, weil es gerade verbunden it</string>
+
+  <string id ="GW_STRING_TEXT_LAN_INTERRUPT">LAN-Verbindung ist unterbrochen</string>
+
+  <string id ="GW_STRING_TEXT_LAN_RECONNECTOK">LAN-Verbindung wurde wiederhergestellt</string>
+
+  <string id ="GW_STRING_TEXT_WLAN_INTERRUPT">WLAN-Verbindung ist unterbrochen</string>
+
+  <string id ="GW_STRING_TEXT_WLAN_RECONNECTOK">WLAN-Verbindung wurde wiederhergestellt</string>
+
+  <string id ="GW_STRING_TEXT_RECFILE_PACKAGE">Abgepackte Aufzeichnungsdatei</string>
+
+  <string id ="GW_STRING_TEXT_RECFILE_AUTO_DELETE">Ungültige Aufzeichnungsdateien werden automatisch entfernt</string>
+
+  <string id ="GW_STRING_TEXT_OPEN_FILE_DIRECTORY">Ordner durchsuchen</string>
+
+  <string id ="GW_STRING_TEXT_SET_PASSWORD_TIP">Bitte ein Passwort für die Kamera festlegen!</string>
+
+  <string id ="GW_STRING_GET_FRIENDLIST_ERROR">Der Abruf von Freundeliste ist  fehlgeschlagen</string>
+
+  <string id ="GW_STRING_QQ_CONNECT_TIP">Bitte das Gerät mit dem LAN verbinden</string>
+
+  <string id ="GW_STRING_RTSP_INTERCOM_UNSUPPORT_TIP">Im RTSP Modus unterstützt das Gerät Gegensprechanlagen nicht, bitte das Gerät aktualisieren!</string>
+
+  <string id ="GW_STRING_LOCAL_ALL_OPEN">Alle öffnen</string>
+
+  <string id ="GW_STRING_LOCAL_ALL_CLOSE">Alle schließen</string>
+
+  <string id ="GW_STRING_BACKUP_LIST_HEAD">,25;Nr.,50; Name,300; Größe,70; Fortschritt,70;</string>
+
+  <string id ="GW_STRING_BACKUP_START">Starten</string>
+
+  <string id ="GW_STRING_BACKUP_STOP">Stoppen</string>
+
+  <string id ="GW_STRING_TIP_SEARCH_FOR_BACKUP">Bitte nach Aufzeichnungsdateien suchen</string>
+
+  <string id ="GW_STRING_TIP_SELECT_FOR_BACKUP">Bitte Dateien auswählen</string>
+
+  <string id ="GW_STRING_TIP_ERROR_PATH">Der eingegebener Dateipfad ist ungültig, bitte erneut eingeben</string>
+
+  <string id ="GW_STRING_LAB_BACKUP_SAVEAS">Dateipfad speichern</string>
+
+  <string id ="GW_STRING_TEXT_CONVERT">Dateien ins MP4-Videoformat umwandln</string>
+
+  <string id ="GW_STRING_DEFENCE_AREA">Verzeichnis</string>
+
+  <string id ="GW_STRING_DEFENCE_CHANNEL">Kanal</string>
+
+  <string id ="GW_STRING_BATCH_SETTING">Batcheinstellungen</string>
+
+  <string id ="GW_STRING_INIT_PWD">Passwort festlegen</string>
+
+  <string id ="GW_STRING_CLEAR_PWD">Passwort löschen</string>
+
+  <string id ="GW_STRING_RENDER_MODE">Rendermodus</string>
+
+  <string id ="GW_STRING_PWD_SETTING">Passworteinstellungen</string>
+
+  <string id ="GW_STRING_LOGOUT">Abmelden</string>
+
+  <string id ="GW_STRING_KEEP_PASSWORD">Passwort speichern</string>
+
+  <string id ="GW_STRING_AUTO_LOGIN">Angemeldet bleiben</string>
+
+  <string id ="GW_STRING_CHECK_FOR_UPDATE">Aktualisieren</string>
+
+  <string id ="GW_STRING_TEXT_CHECK_FOR_UPDATE_01">Eine neue Version ist vorhanden. jetzt herunterladen?</string>
+
+  <string id ="GW_STRING_TEXT_CHECK_FOR_UPDATE_02">Keine neue Version ist vorhanden</string>
+  <string id ="GW_STRING_CLEAR_LIST">Clear</string>
+  <string id ="GW_STRING_BTN_LOCALCFG_SYSTEM_INFO">System Info</string>
+  <string id ="GW_STRING_BTN_TIP_FAST_FORWARD">Fast Forward</string>
+  <string id ="GW_STRING_BTN_TIP_SLOW_FORWARD">Slow Forward</string>
+  <string id ="GW_STRING_BATCH_DOWNLOAD_SHOW_MORE">Show More</string>
+
+  <string id ="GW_STRING_LOGIN_TIP">Ihr Konto wurde schon in andere Stelle angemeldet!</string>
+  <string id ="GW_STRING_TEXT_CHECK_FOR_UPDATE_03">Check for product updates on startup</string>
+  <string id ="GW_STRING_SHARER_NAME">Sharer</string>
+  <string id ="GW_STRING_ADD_SHARED_DEVICE">Add shared device</string>
+
+  <string id ="GW_STRING_UPDATE_GET_UPGFILE">Downloading update files</string>
+  <string id ="GW_STRING_UPDATE_BACKUP">Backup files</string>
+  <string id ="GW_STRING_UPDATE_DEC">Decompressing</string>
+  <string id ="GW_STRING_UPDATE_UPGDB">Updating database</string>
+  <string id ="GW_STRING_UPDATE_UPGCFG">Updating profile</string>
+  <string id ="GW_STRING_UPDATE_UPGREG">Updating registry</string>
+  <string id ="GW_STRING_UPDATE_DELCACHE">Delete the cache file</string>
+  <string id ="GW_STRING_UPDATE_DONE">Update completed</string>
+
+  <string id ="GW_STRING_ADD_SHARED_DEV_CLEAR">Clear</string>
+  <string id ="GW_STRING_ADD_SHARED_DEV_OK">Completed</string>
+  <string id ="GW_STRING_ADD_SHARED_DEV_FAILED">Failed,error code：</string>
+  <string id ="GW_STRING_ADD_SHARED_DEV_INVALID_LINK">Invalid link</string>
+  <string id ="GW_STRING_ADD_SHARED_DEV_ERR_01">Invalid link,please ask owner to share it again</string>
+  <string id ="GW_STRING_ADD_SHARED_DEV_INVALID_DEV">One or more cameras are not available，please ask owner to share it again</string>
+  <string id ="GW_STRING_RTSP_PWD_TIP">Please connect this device by phone and set RTSP password under app "security settings"</string>
+  <string id ="GW_STRING_SERVERINFO_RTSPPSW">Device RTSP password</string>
+  <string id ="GW_STRING_RTSP_PWD">RTSP Password</string>
+  <string id ="GW_STRING_ROUTE_TYPE">Monitor Route</string>
+  <string id ="GW_STRING_RTSP_PSW1">RTSP Password</string>
+  <string id ="GW_STRING_ADMIN_LOGIN">admin login</string>
+  <string id ="GW_STRING_PHONE_LOGIN">phone number login</string>
+  <string id ="GW_STRING_MAIL_ID_LOGIN">mail/user ID login</string>
+  <string id ="GW_STRING_PHONE_NUM">phone number</string>
+  <string id ="GW_STRING_MAIL_ID">mail/user ID</string>
+  <string id ="GW_STRING_RECV_PUSH_MESG">push messages</string>
+  <string id ="GW_STRING_SHARE_CONTENT">Sie teilen eine Kamera an, ob empfangen?</string>
+  <string id ="GW_STRING_IS_VALID">Gültig ist</string>
+<string id ="GW_STRING_MESG_NOTICE">Nachricht</string>
+  <string id ="GW_STRING_MESG_TYPE">Nachricht vom Typ</string>
+  <string id ="GW_STRING_SHARE_MASTER">Der absender</string>
+  <string id ="GW_STRING_LEAVING_MESG">Hinterlassen sie eine nachricht</string>
+
+  <string id ="GW_STRING_ADD_SHARED_DEV_ERR_COUNT_LIMIT">The current number of devices added has reached the limit</string>
+  <string id ="GW_STRING_ADD_SHARED_DEV_ERR_HISTORY_LIMIT">The number of historical devices added has reached the limit</string>
+  <string id ="GW_STRING_ADD_SHARED_DEV_ERR_BINDED_LIMIT">The current device has been bound too much times</string>
+
+  <string id ="GW_STRING_BTNTIP_PREVIEW_ZOOMIN">Zoom in</string>
+  <string id ="GW_STRING_BTNTIP_PREVIEW_ZOOMOUT">Zoom out</string>
+</StringTable>
