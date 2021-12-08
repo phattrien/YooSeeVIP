@@ -15,7 +15,7 @@ Camera ip Gviews
 Camera ip Gdxpro
 
 Website hỗ trợ: 
-https://www.YooSee.VIP / http://cameravietnam.org / https://cuahangcamera.com / https://www.wintech.vip / http://CửaHàngCamera.vn
+https://www.YooSee.SanPham.VIP / http://cameravietnam.org / https://cuahangcamera.com / https://www.wintech.vip / http://CửaHàngCamera.vn
 
 Hướng dẫn nhanh sử dụng phần mềm CMS Camera PC
 http://cameravietnam.org/news/huong-dan/huong-dan-nhanh-su-dung-phan-mem-cms-camera-pc-13.html
